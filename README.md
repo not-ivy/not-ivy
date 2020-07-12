@@ -5,12 +5,13 @@
 -->
 
 
-- 🔭 I’m currently working on [`kami-blue/client`](https://github.com/kami-blue/client), [`kylo-dev/kylo`](https://github.com/kylo-dev/kylo), and [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend)
-- 🌱 I’m currently learning java and kotlin
+- 🔭 I’m currently working on [`kami-blue/client`](https://github.com/kami-blue/client), [`kylo-dev/kylo`](https://github.com/kylo-dev/kylo), and [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend).
+- 🌱 I’m currently learning java, kotlin and c++.
 <!--
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
 - 💬 Ask me about 
-- 📫 How to reach me: 
-- ⚡ Fun fact: i use macos
+- 🤔 I’m looking for help with 
 -->
+- 📫 How to reach me: `sourTaste000#3581` on discord.
+- ⚡ Fun fact: 🦆
+
