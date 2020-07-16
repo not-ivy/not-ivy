@@ -10,8 +10,8 @@
 <!--
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about 
-- 🤔 I’m looking for help with 
 -->
+- 🤔 I’m looking for help with [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend).
 - 📫 How to reach me: `sourTaste000#3581` on discord.
 - ⚡ Fun fact: 🦆
 
