@@ -14,4 +14,4 @@
 - 🤔 I’m looking for help with [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend).
 - 📫 How to reach me: `sourTaste000#3581` on discord.
 
-<img width="50%" height="50%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/373d326c-2d49-4d72-9e51-9bb5d16fca89.svg"></img>
+<img width="50%" height="50%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/d70bc3e4-e8cb-41dd-858e-549e06570ec4.svg"></img>
