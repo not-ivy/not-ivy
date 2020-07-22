@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on [`kami-blue/client`](https://github.com/kami-blue/client), [`kylo-dev/kylo`](https://github.com/kylo-dev/kylo), and [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend).
+- 🔭 I’m currently working on [`kami-blue/bot`](https://github.com/kami-blue/bot), [`kylo-dev/kylo`](https://github.com/kylo-dev/kylo), and [`kylo-dev/kylo-dev/Kylo-Block-Extend`](https://github.com/kylo-dev/Kylo-Block-Extend).
 - 🌱 I’m currently learning java, kotlin and c++.
 <!--
 - 👯 I’m looking to collaborate on 
