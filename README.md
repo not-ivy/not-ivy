@@ -17,3 +17,5 @@
 
     GitHub: sourTaste000
     Discord: sourTaste000#3581
+
+![stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&count_private=true&show_icons=true&theme=onedark)
