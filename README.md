@@ -1,6 +1,6 @@
 # sourTaste000
 
-    Intermediate Java/JavaScript/C++ programmer, kotlin learner, and Graphic Designer(Not really good actually).
+    Intermediate Java/JavaScript/C++ programmer, kotlin learner, and graphic designer(Not really good actually).
 
 ## GitHub Contributions
 
