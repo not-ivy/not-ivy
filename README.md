@@ -16,7 +16,7 @@
 ## Contacts
 
     GitHub: sourTaste000
-    Discord: sourTaste000#3581
+    Discord: sourTaste000#0001
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&count_private=true&show_icons=true&theme=vue)
 <img width="45%" height="45%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/9f0c6c49-5299-4d6f-b717-784ee399608b.svg"></img>
