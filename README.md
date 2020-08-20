@@ -19,4 +19,6 @@
     Discord: sourTaste000#0001
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&count_private=true&show_icons=true&theme=vue)
-<img width="45%" height="45%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/9f0c6c49-5299-4d6f-b717-784ee399608b.svg"></img>
+<img width="45%" height="45%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/77650e92-3172-44b7-b68a-f9c480afce36.svg"></img>
+<img width="45%" height="45%" src="https://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/a0f9631b-01de-4b3f-8c84-b8279168bf9d.svg"></img>
+<img width="45%" height="45%" src="ttps://wakatime.com/share/@32a4f5e7-c047-422a-9e96-26bc31c49a33/4e57d5c3-4c14-42cd-a498-99dc91b4cab5.svg"></img>
