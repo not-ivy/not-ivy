@@ -1,6 +1,6 @@
 ## Hello
 ```
-asdasdasdasd
+Kotlin / HTML / CSS / JavaScript
 ```
 
 ### Stats
@@ -8,8 +8,7 @@ asdasdasdasd
 ![either your browser broke or github broke](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=vue&count_private=true&include_all_commits=true)
 
 <details>
-  <summary>boring stuff</summary>
-### Keybase proof
+  <summary>Keybase proof</summary>
 
 I hereby claim:
 
