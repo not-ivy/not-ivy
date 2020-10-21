@@ -1,6 +1,6 @@
 ## Hello
 ```
-Kotlin / HTML / CSS / JavaScript / Python
+Kotlin / JAVA / C++ / HTML / CSS / JavaScript / Python
 ```
 
 ### Stats
