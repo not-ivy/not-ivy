@@ -1,4 +1,4 @@
-## :duck: Quack
+## Hello
 ```
 Kotlin / HTML / CSS / JavaScript / Python / Java / C++
 ```
