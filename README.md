@@ -17,6 +17,7 @@
 <img width=5% height=5% src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" alt="linux"></img>
 <img width=5% height=5% src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="nodejs"></img>
 <img width=5% height=5% src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png"></img>
+<img width=5% height=5% src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></img>
 
 ### Check out some repositories that I contributed to:
 [kami-blue/client](https://github.com/kami-blue/client/)
