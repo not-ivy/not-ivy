@@ -1,8 +1,8 @@
 ## Hello!
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) enthusiast;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) and ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F18E33)enthusiast;
 
-- Average ![Rust](https://img.shields.io/badge/-Rust-%23dea584) and ![Linux](https://img.shields.io/badge/-Linux-%230a0a0a) enjoyer.
+Average ![Rust](https://img.shields.io/badge/-Rust-%23dea584) and ![Linux](https://img.shields.io/badge/-Linux-%230a0a0a) enjoyer.
 
 Currently learning ![C++](https://img.shields.io/badge/-C++-%23f34b7d), ![Java](https://img.shields.io/badge/-Java-%23b07219) and ![Python](https://img.shields.io/badge/-Python-%233572A5).
 
