@@ -1,6 +1,6 @@
 ## Hello!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) and ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F18E33)enthusiast;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) and ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F18E33) enthusiast;
 
 Average ![Rust](https://img.shields.io/badge/-Rust-%23dea584) and ![Linux](https://img.shields.io/badge/-Linux-%230a0a0a) enjoyer.
 
