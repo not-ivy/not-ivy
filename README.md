@@ -4,7 +4,7 @@
 
 average ![Rust](https://img.shields.io/badge/-Rust-%23dea584) and ![Linux](https://img.shields.io/badge/-Linux-%230a0a0a) enjoyer;
 
-Currently learning ![C++](https://img.shields.io/badge/-C++-%23f34b7d), ![Java](https://img.shields.io/badge/-Java-%23b07219) and ![Python](https://img.shields.io/badge/-Python-%233572A5).
+Currently learning ![Scala](https://img.shields.io/badge/-Scala-%23f34b7d), ![Java](https://img.shields.io/badge/-Java-%23b07219) and ![Python](https://img.shields.io/badge/-Python-%233572A5).
 
 ___
 ### Cool repositories that I contributed to:
