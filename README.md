@@ -1,22 +1,12 @@
 ### Hello!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) and ![Rust](https://img.shields.io/badge/-Rust-%23dea584) enthusiast;
-
-average ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F18E33) and ![Linux](https://img.shields.io/badge/-Linux-%230a0a0a) enjoyer;
-
-Currently learning ![Scala](https://img.shields.io/badge/-Scala-%23f34b7d), ![Java](https://img.shields.io/badge/-Java-%23b07219) and ![Python](https://img.shields.io/badge/-Python-%233572A5).
-
-___
-### Cool repositories that I contributed to:
-[kami-blue/client](https://github.com/kami-blue/client/)
-
-[kami-blue/bot-kt](https://github.com/kami-blue/bot-kt/)
-
-[kami-blue/bot-js](https://github.com/kami-blue/bot-js)
-
-[kylo-dev/Kylo-Block-Extend](https://github.com/kylo-dev/Kylo-Block-Extend)
-
-[kylo-dev/kylo](https://github.com/kylo-dev/kylo)
+### I programs in:
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 
 ___
 ### Stats
