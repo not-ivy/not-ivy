@@ -1,7 +1,9 @@
 ### Hello!
 
 ```rust
-struct sourTaste000();
+use std::fmt::Debug;
+
+struct sourTaste000;
 
 trait Code {
     fn code(&self, lang: Languages);
@@ -9,28 +11,17 @@ trait Code {
 
 impl Code for sourTaste000 {
     fn code(&self, lang: Languages) {
-            println!("I code in {}!", lang.value())
+            println!("I code in {:?}!", lang)
     }
 }
 
+#[Derive(Debug)]
 enum Languages {
     Rust,
     Java,
     Kotlin,
     JavaScript,
     Python
-}
-
-impl Languages {
-    fn value(&self) -> &str {
-        match *self {
-            Languages::Rust => "Rust",
-            Languages::Java => "Java",
-            Languages::Kotlin => "Kotlin",
-            Languages::JavaScript => "JavaScript",
-            Languages::Python => "Python"
-        }
-    }
 }
 ```
 ___
