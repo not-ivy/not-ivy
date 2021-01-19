@@ -24,9 +24,9 @@ enum Languages {
 impl Languages {
     fn value(&self) -> &str {
         match *self {
-            Languages::Rust => "rust",
-            Languages::Java => "java",
-            Languages::Kotlin => "kotlin",
+            Languages::Rust => "Rust",
+            Languages::Java => "Java",
+            Languages::Kotlin => "Kotlin",
             Languages::JavaScript => "JavaScript",
             Languages::Python => "Python"
         }
