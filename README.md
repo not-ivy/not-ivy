@@ -15,7 +15,7 @@ impl Code for sourTaste000 {
     }
 }
 
-#[Derive(Debug)]
+#[Derive(std::fmt::Debug)]
 enum Languages {
     Rust,
     Java,
@@ -23,6 +23,8 @@ enum Languages {
     JavaScript,
     Python
 }
+
+assert_eq!(std::env::consts::OS, "linux")
 ```
 ___
 ### Stats
