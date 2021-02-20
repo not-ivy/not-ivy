@@ -28,5 +28,6 @@ assert!(cfg!(unix))
 ```
 ___
 ### Stats
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord)  
-![either your browser broke or github broke](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord&layout=compact)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
