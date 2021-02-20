@@ -24,7 +24,7 @@ enum Languages {
     Python
 }
 
-assert_eq!(std::env::consts::OS, "linux")
+assert!(cfg!(unix))
 ```
 ___
 ### Stats
