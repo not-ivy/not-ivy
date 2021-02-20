@@ -1,8 +1,6 @@
 ### Hello!
 
 ```rust
-use std::fmt::Debug;
-
 struct sourTaste000;
 
 trait Code {
@@ -15,16 +13,19 @@ impl Code for sourTaste000 {
     }
 }
 
-#[Derive(std::fmt::Debug)]
+#[derive(std::fmt::Debug)]
 enum Languages {
     Rust,
     Java,
     Kotlin,
     JavaScript,
-    Python
+    Python,
+    Shell
 }
 
-assert!(cfg!(unix))
+fn main() {
+    assert!(cfg!(unix))
+}
 ```
 ___
 ### Stats
