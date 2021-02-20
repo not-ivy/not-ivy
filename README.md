@@ -28,5 +28,5 @@ assert_eq!(std::env::consts::OS, "linux")
 ```
 ___
 ### Stats
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000)  
-![either your browser broke or github broke](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=vue&count_private=true&include_all_commits=true)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord)  
+![either your browser broke or github broke](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)
