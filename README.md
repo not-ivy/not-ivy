@@ -1,5 +1,3 @@
-### Hello!
-
 ```rust
 struct sourTaste000;
 
@@ -33,6 +31,5 @@ ___
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord&layout=compact)  
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourTaste000&layout=compact&theme=nord)  
 
-___
-### Views
-![views](https://count.getloli.com/get/@:sourTaste000)
+![crop](https://user-images.githubusercontent.com/47074495/119239607-1237b680-baff-11eb-8de4-927ee293c206.png)
+
