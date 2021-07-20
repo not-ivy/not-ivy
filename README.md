@@ -1,5 +1,5 @@
-## Former kotlin / rust enjoyer
-Now officially Java/JavaScript enjoyer
+## Java/JavaScript enjoyer
+Former Kotlin / Rust enjoyer
 ### Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)  
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord&layout=compact)  
