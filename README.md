@@ -3,7 +3,7 @@ Former Kotlin / Rust enjoyer
 ### Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)  
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord&layout=compact)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourTaste000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourTaste000&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 ___
 ### Extras
 <details>
