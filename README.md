@@ -1,4 +1,4 @@
-## Java/JavaScript Enjoyer<sub>_Former Kotlin / Rust Enjoyer_</sub>
+## Kotlin/Java/JavaScript Enjoyer<sub>_Former Rust Enjoyer_</sub>
 I am currently working on the folowing projects:
 - [humboldt123/Thunderhead](https://github.com/humboldt123/thunderhead/) This was originally a JavaScript discord bot, now it is currently undergoing a full rewrite in kotlin.  
 - [sourTaste000/new-website](https://github.com/sourTaste000/new-website) My new website. You can view the new website [here](https://sourtaste000.dev/new-website), and the old one [here](https://sourtaste000.dev).
