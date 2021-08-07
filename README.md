@@ -1,13 +1,8 @@
-## Java/JavaScript enjoyer
-Former Kotlin / Rust enjoyer
-### Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&theme=nord&count_private=true&include_all_commits=true)  
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&theme=nord&layout=compact)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sourTaste000&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-___
-### Extras
-<details>
-    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/AEC7EF1F3BAABA0473FB71909D7E2B282984777F">GPG Key</a>
-</details>
-
-![crop](https://user-images.githubusercontent.com/47074495/119239607-1237b680-baff-11eb-8de4-927ee293c206.png)
+## Java/JavaScript Enjoyer<sub>_Former Kotlin / Rust Enjoyer_</sub>
+I am currently working on the folowing projects:
+- [humboldt123/Thunderhead](https://github.com/humboldt123/thunderhead/) This was originally a JavaScript discord bot, now it is currently undergoing a full rewrite in kotlin.  
+- [sourTaste000/new-website](https://github.com/sourTaste000/new-website) My new website. You can view the new website [here](https://sourtaste000.dev/new-website), and the old one [here](https://sourtaste000.dev).
+## Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&count_private=true&include_all_commits=true)  
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourTaste000)](https://github.com/ryo-ma/github-profile-trophy)
