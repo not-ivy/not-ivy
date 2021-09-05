@@ -1,6 +1,6 @@
 ## Kotlin/Java/JavaScript Enjoyer
 I am currently working on the folowing projects:
-- [humboldt123/Thunderhead](https://github.com/humboldt123/thunderhead/) This was originally a JavaScript discord bot, now it is currently undergoing a full rewrite in kotlin.  
+- [the-thunderhead/Thunderhead](https://github.com/the-thunderhead/thunderhead/) This was originally a JavaScript discord bot, now it is currently undergoing a full rewrite in kotlin.  
 - [sourTaste000/sourtaste000.github.io](https://github.com/sourTaste000/sourtaste000.github.io) My website. You can view the website [here](https://sourtaste000.dev).
 ## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=sourTaste000&count_private=true&include_all_commits=true)  
