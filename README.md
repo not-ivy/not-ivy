@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/-GNU%20Bash-%234EAA25?logo=GNUBash&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=HTML5&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&labelColor=4c566a" />
+  <br />
+  <img src="https://img.shields.io/badge/-macOS-%23fafafa?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?logo=Linux&labelColor=4c566a" />
 </div>
 
 ## My projects
