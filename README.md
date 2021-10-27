@@ -23,7 +23,7 @@
 </div>
 
 ## My projects
-- [sourTaste000/multipurpose](https://github.com/sourTaste000/multipurpose) Bad minecraft mod that helps you do stuff.
+- [NonOriginalDevelopment/multipurpose](https://github.com/NonOriginalDevelopment/multipurpose) Bad minecraft mod that helps you do stuff.
 - [the-thunderhead/Thunderhead](https://github.com/the-thunderhead/thunderhead/) This was originally a JavaScript discord bot, now it is currently undergoing a full rewrite in kotlin.  
 - [sourTaste000/sourtaste000.github.io](https://github.com/sourTaste000/sourtaste000.github.io) My website. You can view the website [here](https://sourtaste000.dev).
 - [sourTaste000/OpenTicket](https://github.com/sourTaste000/OpenTicket) An open source discord bot with the main functionality of creating tickets.
