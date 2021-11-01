@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&labelColor=4c566a" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23019733?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%230a0a0a?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%230a0a0a?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%231dcf90?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f932df?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23007ACC?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
   <img src="https://img.shields.io/badge/-macOS-%23fafafa?logo=macOS&labelColor=4c566a" />
