@@ -29,9 +29,7 @@ userRepos.sort((a, b) => (a.stargazers_count > b.stargazers_count) ? -1 : 1);
 
 const uniqueLanguages: (string | null | undefined)[] = [
   ...new Set(userRepos.map((repo) => repo.language)),
-].slice(0, 10).filter((language) =>
-  language !== null || language !== undefined || language !== ""
-);
+].slice(0, 10);
 
 const wakatime: wakatime = await fetch(
   "https://wakatime.com/share/@sourTaste000/36041030-af34-400d-999b-03c7373c0611.json",
@@ -77,7 +75,9 @@ template = template.replace(
 template = template.replace(
   "%languages%",
   uniqueLanguages.map((language) =>
-    `<img src="https://img.shields.io/badge/-${language}-${colors.pop()}" />`
+    `<img src="https://img.shields.io/badge/-${
+      (language !== null) ? language : "Other"
+    }-${colors.pop()}" />`
   ).join("\n"),
 );
 template = template.replace("%active%", activeRepos.join("\n"));
