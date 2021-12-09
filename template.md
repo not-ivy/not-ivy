@@ -9,6 +9,7 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
+  %languages%
   <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?logo=Kotlin&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&labelColor=4c566a" />
