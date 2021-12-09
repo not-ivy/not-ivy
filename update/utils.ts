@@ -33,5 +33,5 @@ export function generateAsciiGraph(stats: wakatime) {
 }
 
 function repeat(str: string, times: number) {
-  return new Array(Math.round(times) + 1).join(str);
+  return new Array(Math.floor(times) + 1).join(str);
 }
