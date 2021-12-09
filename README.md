@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Encourage flow.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -9,23 +9,16 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-9b90ff)
-![HTML](https://img.shields.io/badge/-HTML-9b90ff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-9b90ff)
-![Rust](https://img.shields.io/badge/-Rust-9b90ff)
-![null](https://img.shields.io/badge/-null-9b90ff)
-![Shell](https://img.shields.io/badge/-Shell-9b90ff)
-![Java](https://img.shields.io/badge/-Java-9b90ff)
-![Swift](https://img.shields.io/badge/-Swift-9b90ff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-9b90ff)
-![CSS](https://img.shields.io/badge/-CSS-9b90ff)
-  <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?logo=Kotlin&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-GNU%20Bash-%234EAA25?logo=GNUBash&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=HTML5&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-TypeScript-9b90ff" />
+<img src="https://img.shields.io/badge/-HTML-9b90ff" />
+<img src="https://img.shields.io/badge/-Kotlin-9b90ff" />
+<img src="https://img.shields.io/badge/-Rust-9b90ff" />
+<img src="https://img.shields.io/badge/-null-9b90ff" />
+<img src="https://img.shields.io/badge/-Shell-9b90ff" />
+<img src="https://img.shields.io/badge/-Java-9b90ff" />
+<img src="https://img.shields.io/badge/-Swift-9b90ff" />
+<img src="https://img.shields.io/badge/-JavaScript-9b90ff" />
+<img src="https://img.shields.io/badge/-CSS-9b90ff" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23019733?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%231dcf90?logo=CLion&labelColor=4c566a" />
