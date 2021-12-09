@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Responsive is better than fast.</i></b>
+  <b><i>Practicality beats purity.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -66,7 +66,6 @@ Text                [                             ] 0.36%
 INI                 [                             ] 0.2%
 Groovy              [                             ] 0.16%
 Git Config          [                             ] 0.08%
-
 ```
 
 ## Info
