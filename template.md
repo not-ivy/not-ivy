@@ -37,3 +37,7 @@
 ## Stats
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)
+
+## Info
+
+This readme will update every 30 minutes through typescript magic! Check back later to see if anything changed!

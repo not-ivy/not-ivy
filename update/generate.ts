@@ -21,14 +21,14 @@ for (const repo of userRepos) {
       new Date().getTime() - (1000 * 60 * 60 * 24 * 31) && !repo.fork
   ) {
     activeRepos.push(
-      `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description}`,
+      `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`,
     );
   }
 }
 template = template.replace(
   "%starred%",
   userRepos.slice(0, 5).map((repo) =>
-    `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description}`
+    `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
   ).join("\n"),
 );
 template = template.replace("%active%", activeRepos.join("\n"));
