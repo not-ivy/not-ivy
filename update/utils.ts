@@ -27,7 +27,7 @@ export function generateAsciiGraph(stats: wakatime) {
   for (let i = 0; i < data.length; i++) {
     graph += `${data[i].name}${repeat(" ", 20 - data[i].name.length)}[${
       repeat("#", data[i].percent)
-    }] ${data[i].percent}%\n`;
+    }${repeat(" ", data[0].percent - data[i].percent)}] ${data[i].percent}%\n`;
   }
   return graph;
 }
