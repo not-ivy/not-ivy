@@ -16,7 +16,7 @@ export function githubAPI(endpoint: string, type: string) {
   }
 }
 
-export function generateAsciiGraph(stats: wakatime) {
+export function generateWakatimeGraph(stats: wakatime) {
   if (
     stats.data === undefined || stats.data === null || stats.data.length === 0
   ) {

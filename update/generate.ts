@@ -1,6 +1,6 @@
 // deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
 import { repos, wakatime } from "./interfaces.ts";
-import { generateAsciiGraph, githubAPI } from "./utils.ts";
+import { generateWakatimeGraph, githubAPI } from "./utils.ts";
 import { parse } from "https://deno.land/std@0.95.0/datetime/mod.ts";
 
 const githubZen: string = await githubAPI("/zen", "text");
@@ -40,7 +40,7 @@ template = template.replace(
 
 template = template.replace(
   "%wakatime%",
-  generateAsciiGraph(wakatime),
+  generateWakatimeGraph(wakatime),
 );
 
 template = template.replace(

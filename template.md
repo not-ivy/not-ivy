@@ -38,10 +38,13 @@
 
 %archived%
 
-## Wakatime Stats
+## Stats
 
 ```
 %wakatime%
+```
+```
+%languages&
 ```
 
 ## Info
