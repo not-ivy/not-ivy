@@ -1,0 +1,37 @@
+name: Update
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v2
+
+      - name: Setup Deno
+        # uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@004814556e37c54a2f6e31384c9e18e9833173669
+        with:
+          deno-version: v1.x
+
+      - name: Verify formatting
+        run: deno fmt --check
+
+      - name: Run linter
+        run: deno lint
+        
+      - name: Update README
+        run: deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Readme Update"
+          git config --global user.email "mail@example.com"
+
+          git add -A
+          git commit -m "$(curl -s whatthecommit.com/index.txt)"
+          git push
