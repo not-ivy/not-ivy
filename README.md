@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Non-blocking is better than blocking.</i></b>
+  <b><i>Approachable is better than simple.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -47,12 +47,6 @@
 - [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime) ★3
 - [sourTaste000/kamiblue-no-watermark](https://github.com/sourTaste000/kamiblue-no-watermark) kami blue mirror with watermark removed ★1
 - [sourTaste000/old-website](https://github.com/sourTaste000/old-website) me when too lazy to build a personal website ★1
-- [sourTaste000/bitbuf](https://github.com/sourTaste000/bitbuf) The joke nobody asked for ★0
-- [sourTaste000/blog-rs](https://github.com/sourTaste000/blog-rs) tiny blog backend powered by Iron. ★0
-- [sourTaste000/discord-stuff](https://github.com/sourTaste000/discord-stuff) Repository of themes I made for Discord ★0
-- [sourTaste000/html-js](https://github.com/sourTaste000/html-js) place to test my js and html stuff ★0
-- [sourTaste000/invite-bot](https://github.com/sourTaste000/invite-bot) null ★0
-- [sourTaste000/kami-installer](https://github.com/sourTaste000/kami-installer) installer for kami/kami-blue ★0
 
 ## Wakatime Stats
 
