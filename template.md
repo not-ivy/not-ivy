@@ -43,9 +43,6 @@
 ```
 %wakatime%
 ```
-```
-%languages&
-```
 
 ## Info
 
