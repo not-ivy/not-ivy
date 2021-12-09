@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Half measures are as bad as nothing at all.</i></b>
+  <b><i>Practicality beats purity.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -49,7 +49,7 @@
 - [sourTaste000/kamiblue-no-watermark](https://github.com/sourTaste000/kamiblue-no-watermark) kami blue mirror with watermark removed ★1
 - [sourTaste000/old-website](https://github.com/sourTaste000/old-website) me when too lazy to build a personal website ★1
 
-## Wakatime Stats
+## Stats
 
 ```
 TypeScript          [#############################] 29.84%
@@ -66,6 +66,9 @@ Text                [                             ] 0.36%
 INI                 [                             ] 0.2%
 Groovy              [                             ] 0.16%
 Git Config          [                             ] 0.08%
+```
+```
+%languages&
 ```
 
 ## Info
