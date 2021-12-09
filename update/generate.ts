@@ -23,7 +23,8 @@ const activeRepos = [];
 for (const repo of userRepos) {
   if (
     parse(repo.updated_at, "yyyy-MM-ddTHH:mm:ssZ").getTime() >
-      new Date().getTime() - (1000 * 60 * 60 * 24 * 7) && !repo.fork && !repo.archived
+      new Date().getTime() - (1000 * 60 * 60 * 24 * 7) &&
+    !repo.fork && !repo.archived
   ) {
     activeRepos.push(
       `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`,
@@ -47,7 +48,7 @@ template = template.replace(
   userRepos.filter((repo) => repo.archived).map((repo) =>
     `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
   ).join("\n"),
-)
+);
 
 template = template.replace("%active%", activeRepos.join("\n"));
 
