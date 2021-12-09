@@ -34,7 +34,11 @@
 
 %active%
 
-## Stats
+## Archived Projects
+
+%archived%
+
+## Wakatime Stats
 
 ```
 %wakatime%

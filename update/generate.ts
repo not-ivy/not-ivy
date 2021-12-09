@@ -23,7 +23,7 @@ const activeRepos = [];
 for (const repo of userRepos) {
   if (
     parse(repo.updated_at, "yyyy-MM-ddTHH:mm:ssZ").getTime() >
-      new Date().getTime() - (1000 * 60 * 60 * 24 * 31) && !repo.fork
+      new Date().getTime() - (1000 * 60 * 60 * 24 * 7) && !repo.fork && !repo.archived
   ) {
     activeRepos.push(
       `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`,
@@ -36,10 +36,19 @@ template = template.replace(
     `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
   ).join("\n"),
 );
+
 template = template.replace(
   "%wakatime%",
   generateAsciiGraph(wakatime),
 );
+
+template = template.replace(
+  "%archived%",
+  userRepos.filter((repo) => repo.archived).map((repo) =>
+    `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
+  ).join("\n"),
+)
+
 template = template.replace("%active%", activeRepos.join("\n"));
 
 await Deno.writeTextFile("./README.md", template);
