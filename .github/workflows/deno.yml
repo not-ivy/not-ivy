@@ -27,7 +27,9 @@ jobs:
         run: deno lint
         
       - name: Update README
-        run: deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
+        run: |
+           export TOKEN="${{ secrets.TOKEN }}"
+           deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
       
       - name: Commit and push changes
         run: |
