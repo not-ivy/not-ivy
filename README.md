@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Approachable is better than simple.</i></b>
+  <b><i>Responsive is better than fast.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -28,7 +28,7 @@
 
 ## Top 5 Starred Projects
 
-- [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom ★4
+- [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom (and more) ★4
 - [sourTaste000/launch](https://github.com/sourTaste000/launch) simple and fast browser start/home page ★4
 - [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress. ★3
 - [sourTaste000/compass](https://github.com/sourTaste000/compass) a library for discord webhooks, written using rust ★3
@@ -44,6 +44,7 @@
 
 ## Archived Projects
 
+- [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom (and more) ★4
 - [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime) ★3
 - [sourTaste000/kamiblue-no-watermark](https://github.com/sourTaste000/kamiblue-no-watermark) kami blue mirror with watermark removed ★1
 - [sourTaste000/old-website](https://github.com/sourTaste000/old-website) me when too lazy to build a personal website ★1
