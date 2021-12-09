@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Anything added dilutes everything else.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -49,7 +49,23 @@
 
 ## Stats
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)
+```
+TypeScript [##############################] 29.84%
+Kotlin [###########################] 29.84%
+JavaScript [#################] 29.84%
+Bash [########] 29.84%
+Markdown [#######] 29.84%
+HTML [####] 29.84%
+Properties [###] 29.84%
+JSON [##] 29.84%
+Java [#] 29.84%
+YAML [] 29.84%
+Text [] 29.84%
+INI [] 29.84%
+Groovy [] 29.84%
+Git Config [] 29.84%
+
+```
 
 ## Info
 
