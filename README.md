@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Approachable is better than simple.</i></b>
+  <b><i>Non-blocking is better than blocking.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -9,6 +9,16 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
+  https://img.shields.io/badge/-TypeScript-9b90ff}
+https://img.shields.io/badge/-HTML-9b90ff}
+https://img.shields.io/badge/-Kotlin-9b90ff}
+https://img.shields.io/badge/-Rust-9b90ff}
+https://img.shields.io/badge/-null-9b90ff}
+https://img.shields.io/badge/-Shell-9b90ff}
+https://img.shields.io/badge/-Java-9b90ff}
+https://img.shields.io/badge/-Swift-9b90ff}
+https://img.shields.io/badge/-JavaScript-9b90ff}
+https://img.shields.io/badge/-CSS-9b90ff}
   <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?logo=Kotlin&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&labelColor=4c566a" />
@@ -40,7 +50,6 @@
 - [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) dynamically updated readme ★2
 - [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot ★2
 - [sourTaste000/EXILED-Plugin](https://github.com/sourTaste000/EXILED-Plugin) Learning how to create SCP:SL Plugins ★0
-- [sourTaste000/typescript-eslint-template](https://github.com/sourTaste000/typescript-eslint-template) Typescript template for my projects ★0
 
 ## Archived Projects
 
