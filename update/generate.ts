@@ -45,7 +45,9 @@ template = template.replace(
 
 template = template.replace(
   "%archived%",
-  userRepos.filter((repo) => repo.archived).map((repo) =>
+  userRepos.filter((repo) => repo.archived).filter((repo) =>
+    repo.stargazers_count >= 1
+  ).map((repo) =>
     `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
   ).join("\n"),
 );
