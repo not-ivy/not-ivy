@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Non-blocking is better than blocking.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -37,17 +37,24 @@
 ## Active Projects
 
 - [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress. ★3
-- [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime) ★3
-- [sourTaste000/OpenTicket](https://github.com/sourTaste000/OpenTicket) Discord ticket bot written in TypeScript. ★2
-- [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) null ★2
+- [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) dynamically updated readme ★2
 - [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot ★2
-- [sourTaste000/launched](https://github.com/sourTaste000/launched) (WIP) A minecraft launcher. ★1
-- [sourTaste000/learn-uxntal](https://github.com/sourTaste000/learn-uxntal) Learning uxntal. ★1
 - [sourTaste000/EXILED-Plugin](https://github.com/sourTaste000/EXILED-Plugin) Learning how to create SCP:SL Plugins ★0
-- [sourTaste000/kiss-misc](https://github.com/sourTaste000/kiss-misc) miscellaneous packages for kiss linux ★0
 - [sourTaste000/typescript-eslint-template](https://github.com/sourTaste000/typescript-eslint-template) Typescript template for my projects ★0
 
-## Stats
+## Archived Projects
+
+- [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime) ★3
+- [sourTaste000/kamiblue-no-watermark](https://github.com/sourTaste000/kamiblue-no-watermark) kami blue mirror with watermark removed ★1
+- [sourTaste000/old-website](https://github.com/sourTaste000/old-website) me when too lazy to build a personal website ★1
+- [sourTaste000/bitbuf](https://github.com/sourTaste000/bitbuf) The joke nobody asked for ★0
+- [sourTaste000/blog-rs](https://github.com/sourTaste000/blog-rs) tiny blog backend powered by Iron. ★0
+- [sourTaste000/discord-stuff](https://github.com/sourTaste000/discord-stuff) Repository of themes I made for Discord ★0
+- [sourTaste000/html-js](https://github.com/sourTaste000/html-js) place to test my js and html stuff ★0
+- [sourTaste000/invite-bot](https://github.com/sourTaste000/invite-bot) null ★0
+- [sourTaste000/kami-installer](https://github.com/sourTaste000/kami-installer) installer for kami/kami-blue ★0
+
+## Wakatime Stats
 
 ```
 TypeScript          [#############################] 29.84%
