@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Keep it logically awesome.</i></b>
+  <b><i>Responsive is better than fast.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -51,19 +51,19 @@
 
 ```
 TypeScript          [##############################] 29.84%
-Kotlin              [###########################] 27.4%
-JavaScript          [#################] 17.19%
-Bash                [########] 7.55%
-Markdown            [#######] 6.61%
-HTML                [####] 4.11%
-Properties          [###] 2.59%
-JSON                [##] 2.26%
-Java                [#] 1.25%
-YAML                [] 0.42%
-Text                [] 0.36%
-INI                 [] 0.2%
-Groovy              [] 0.16%
-Git Config          [] 0.08%
+Kotlin              [###########################  ] 27.4%
+JavaScript          [#################             ] 17.19%
+Bash                [########                      ] 7.55%
+Markdown            [#######                       ] 6.61%
+HTML                [####                          ] 4.11%
+Properties          [###                           ] 2.59%
+JSON                [##                            ] 2.26%
+Java                [#                             ] 1.25%
+YAML                [                             ] 0.42%
+Text                [                             ] 0.36%
+INI                 [                              ] 0.2%
+Groovy              [                              ] 0.16%
+Git Config          [                              ] 0.08%
 
 ```
 
