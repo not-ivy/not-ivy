@@ -26,10 +26,13 @@
 </div>
 
 ## Top 5 Starred Projects
+
 %starred%
 
 ## Active Projects
+
 %active%
 
 ## Stats
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)  
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)

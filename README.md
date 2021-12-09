@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/-Linux-%23FCC624?logo=Linux&labelColor=4c566a" />
 </div>
 
-## Most Starred Projects
+## Top 5 Starred Projects
+
 - [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom
 - [sourTaste000/launch](https://github.com/sourTaste000/launch) simple and fast browser start/home page
 - [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress.
@@ -33,15 +34,18 @@
 - [sourTaste000/sourtaste000.github.io](https://github.com/sourTaste000/sourtaste000.github.io) My new website!
 
 ## Active Projects
+
 - [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress.
 - [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime)
 - [sourTaste000/OpenTicket](https://github.com/sourTaste000/OpenTicket) Discord ticket bot written in TypeScript.
 - [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot
 - [sourTaste000/launched](https://github.com/sourTaste000/launched) (WIP) A minecraft launcher.
 - [sourTaste000/learn-uxntal](https://github.com/sourTaste000/learn-uxntal) Learning uxntal.
+- [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) null
 - [sourTaste000/EXILED-Plugin](https://github.com/sourTaste000/EXILED-Plugin) Learning how to create SCP:SL Plugins
 - [sourTaste000/kiss-misc](https://github.com/sourTaste000/kiss-misc) miscellaneous packages for kiss linux
 - [sourTaste000/typescript-eslint-template](https://github.com/sourTaste000/typescript-eslint-template) Typescript template for my projects
 
 ## Stats
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)  
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)
