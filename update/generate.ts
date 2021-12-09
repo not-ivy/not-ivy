@@ -59,7 +59,7 @@ template = template.replace(
 template = template.replace(
   "%languages%",
   uniqueLanguages.map((language) =>
-    `https://img.shields.io/badge/-${language}-9b90ff}`
+    `![${language}](https://img.shields.io/badge/-${language}-9b90ff)`
   ).join("\n"),
 );
 template = template.replace("%active%", activeRepos.join("\n"));
