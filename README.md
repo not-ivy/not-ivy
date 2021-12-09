@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>It's not fully shipped until it's fast.</i></b>
+  <b><i>Responsive is better than fast.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
