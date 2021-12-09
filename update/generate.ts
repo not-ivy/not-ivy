@@ -3,9 +3,9 @@ import { repos, wakatime } from "./interfaces.ts";
 import { generateWakatimeGraph, githubAPI } from "./utils.ts";
 import { parse } from "https://deno.land/std@0.95.0/datetime/mod.ts";
 
-const languageColors = await fetch(
-  "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json",
-).then((r) => r.json());
+// const languageColors = await fetch(
+//   "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json",
+// ).then((r) => r.json());
 const githubZen: string = await githubAPI("/zen", "text");
 const userRepos: Array<repos> = await githubAPI(
   "/user/repos?per_page=100",
