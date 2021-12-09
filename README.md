@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Responsive is better than fast.</i></b>
+  <b><i>Approachable is better than simple.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -9,24 +9,24 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-fae1dd" />
-<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
-<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
-<img src="https://img.shields.io/badge/-Other-d8e2dc" />
-<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
-<img src="https://img.shields.io/badge/-Java-e8e8e4" />
-<img src="https://img.shields.io/badge/-Swift-f8edeb" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-CSS-ffd7ba" />
+  <img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
+<img src="https://img.shields.io/badge/-HTML-d8e2dc" />
+<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
+<img src="https://img.shields.io/badge/-Rust-f8edeb" />
+<img src="https://img.shields.io/badge/-Other-ffe5d9" />
+<img src="https://img.shields.io/badge/-Shell-e8e8e4" />
+<img src="https://img.shields.io/badge/-Java-ffd7ba" />
+<img src="https://img.shields.io/badge/-Swift-fec89a" />
+<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
+<img src="https://img.shields.io/badge/-CSS-ece4db" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23019733?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%231dcf90?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f932df?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23007ACC?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23fec5bb?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ece4db?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23fcd5ce?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23fec89a?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23fafafa?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23FCC624?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffd7ba?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23fae1dd?logo=Linux&labelColor=4c566a" />
 </div>
 
 ## Top 5 Starred Projects
