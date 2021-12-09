@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Responsive is better than fast.</i></b>
+  <b><i>Keep it logically awesome.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -28,25 +28,29 @@
 
 ## Top 5 Starred Projects
 
-- [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom
-- [sourTaste000/launch](https://github.com/sourTaste000/launch) simple and fast browser start/home page
-- [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress.
-- [sourTaste000/compass](https://github.com/sourTaste000/compass) a library for discord webhooks, written using rust
-- [sourTaste000/sourtaste000.github.io](https://github.com/sourTaste000/sourtaste000.github.io) My new website!
+- [sourTaste000/anti-bottom](https://github.com/sourTaste000/anti-bottom) discord bot that removes the message encoded in bottom ★4
+- [sourTaste000/launch](https://github.com/sourTaste000/launch) simple and fast browser start/home page ★4
+- [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress. ★3
+- [sourTaste000/compass](https://github.com/sourTaste000/compass) a library for discord webhooks, written using rust ★3
+- [sourTaste000/sourtaste000.github.io](https://github.com/sourTaste000/sourtaste000.github.io) My new website! ★3
 
 ## Active Projects
 
-- [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress.
-- [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime)
-- [sourTaste000/OpenTicket](https://github.com/sourTaste000/OpenTicket) Discord ticket bot written in TypeScript.
-- [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot
-- [sourTaste000/launched](https://github.com/sourTaste000/launched) (WIP) A minecraft launcher.
-- [sourTaste000/learn-uxntal](https://github.com/sourTaste000/learn-uxntal) Learning uxntal.
-- [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) null
-- [sourTaste000/EXILED-Plugin](https://github.com/sourTaste000/EXILED-Plugin) Learning how to create SCP:SL Plugins
-- [sourTaste000/kiss-misc](https://github.com/sourTaste000/kiss-misc) miscellaneous packages for kiss linux
-- [sourTaste000/typescript-eslint-template](https://github.com/sourTaste000/typescript-eslint-template) Typescript template for my projects
+- [d1snin-dev/pulseq](https://github.com/d1snin-dev/pulseq) Self-hosted activity tracking engine. Work in progress. ★3
+- [sourTaste000/walls](https://github.com/sourTaste000/walls) wallpapers i collected (mostly anime) ★3
+- [sourTaste000/OpenTicket](https://github.com/sourTaste000/OpenTicket) Discord ticket bot written in TypeScript. ★2
+- [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot ★2
+- [sourTaste000/launched](https://github.com/sourTaste000/launched) (WIP) A minecraft launcher. ★1
+- [sourTaste000/learn-uxntal](https://github.com/sourTaste000/learn-uxntal) Learning uxntal. ★1
+- [sourTaste000/sourTaste000](https://github.com/sourTaste000/sourTaste000) null ★1
+- [sourTaste000/EXILED-Plugin](https://github.com/sourTaste000/EXILED-Plugin) Learning how to create SCP:SL Plugins ★0
+- [sourTaste000/kiss-misc](https://github.com/sourTaste000/kiss-misc) miscellaneous packages for kiss linux ★0
+- [sourTaste000/typescript-eslint-template](https://github.com/sourTaste000/typescript-eslint-template) Typescript template for my projects ★0
 
 ## Stats
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourTaste000&layout=compact&theme=nord)
+
+## Info
+
+This readme will update every 30 minutes through typescript magic! Check back later to see if anything changed!
