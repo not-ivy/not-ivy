@@ -29,7 +29,7 @@ export function generateAsciiGraph(stats: wakatime) {
       repeat("#", data[i].percent)
     }${repeat(" ", data[0].percent - data[i].percent)}] ${data[i].percent}%\n`;
   }
-  return graph;
+  return graph.trimEnd();
 }
 
 function repeat(str: string, times: number) {
