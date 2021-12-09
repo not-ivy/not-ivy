@@ -107,3 +107,13 @@ export interface License {
   url?: string | null;
   node_id: string;
 }
+
+export interface wakatime {
+  data?: (DataEntity)[] | null;
+}
+
+export interface DataEntity {
+  color: string;
+  name: string;
+  percent: number;
+}
