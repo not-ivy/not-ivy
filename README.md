@@ -9,16 +9,16 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
-<img src="https://img.shields.io/badge/-Rust-fec89a" />
+  <img src="https://img.shields.io/badge/-TypeScript-fec89a" />
+<img src="https://img.shields.io/badge/-HTML-fec5bb" />
+<img src="https://img.shields.io/badge/-Kotlin-ece4db" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
 <img src="https://img.shields.io/badge/-Other-fae1dd" />
-<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
-<img src="https://img.shields.io/badge/-Java-e8e8e4" />
-<img src="https://img.shields.io/badge/-Swift-fec5bb" />
-<img src="https://img.shields.io/badge/-JavaScript-fcd5ce" />
-<img src="https://img.shields.io/badge/-CSS-ffd7ba" />
+<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
+<img src="https://img.shields.io/badge/-Java-d8e2dc" />
+<img src="https://img.shields.io/badge/-Swift-f8edeb" />
+<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-CSS-fcd5ce" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23fec5bb?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%23ece4db?logo=CLion&labelColor=4c566a" />
