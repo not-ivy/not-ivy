@@ -32,10 +32,11 @@ jobs:
            deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
       
       - name: Commit and push changes
+        continue-on-error: true
         run: |
           git config --global user.name "Readme Update"
           git config --global user.email "mail@example.com"
 
-          git add -A
+          git add .
           git commit -m "$(curl -s whatthecommit.com/index.txt)"
           git push
