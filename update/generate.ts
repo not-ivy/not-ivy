@@ -6,17 +6,30 @@ import { parse } from "https://deno.land/std@0.95.0/datetime/mod.ts";
 // const languageColors = await fetch(
 //   "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json",
 // ).then((r) => r.json());
-const colors = [
-  "fec5bb",
-  "fcd5ce",
-  "fae1dd",
-  "f8edeb",
-  "e8e8e4",
-  "d8e2dc",
-  "ece4db",
-  "ffe5d9",
-  "ffd7ba",
-  "fec89a",
+const languageColors = [
+  "413c58",
+  "5a5e71",
+  "72808a",
+  "a3c4bc",
+  "b1ceb9",
+  "bfd7b5",
+  "d3e3bd",
+  "e7efc5",
+  "edebc7",
+  "f2e7c9",
+].sort(() => 0.5 - Math.random());
+
+const otherColors = [
+  "ec91d8",
+  "f69ee1",
+  "ffaaea",
+  "ffb4ed",
+  "ffbeef",
+  "ffc9e5",
+  "ffcee0",
+  "ffd3da",
+  "f4d3d5",
+  "e9d3d0",
 ].sort(() => 0.5 - Math.random());
 
 const githubZen: string = await githubAPI("/zen", "text");
@@ -76,10 +89,21 @@ template = template.replace(
   "%languages%",
   uniqueLanguages.map((language) =>
     `<img src="https://img.shields.io/badge/-${
-      (language !== null) ? language : "Other"
-    }-${colors.pop()}" />`
+      language ?? "other"
+    }-${languageColors.pop()}" />`
   ).join("\n"),
 );
+
 template = template.replace("%active%", activeRepos.join("\n"));
+
+// is there a better way to do this?
+const regex = /%randomcolor%/g;
+let match;
+while ((match = regex.exec(template)) !== null) {
+  template = template.replace(
+    match[0],
+    otherColors.pop() ?? "9b90ff",
+  );
+}
 
 await Deno.writeTextFile("./README.md", template);

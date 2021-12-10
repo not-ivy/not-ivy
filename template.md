@@ -9,15 +9,15 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  %languages%
+%languages%
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23fec5bb?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ece4db?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23fcd5ce?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23fec89a?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23%randomcolor%?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23%randomcolor%?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23%randomcolor%?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23%randomcolor%?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffd7ba?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23fae1dd?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23%randomcolor%?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23%randomcolor%?logo=Linux&labelColor=4c566a" />
 </div>
 
 ## Top 5 Starred Projects
