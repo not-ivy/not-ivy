@@ -44,8 +44,10 @@ export function generateGithubLanguageStats(repos: Array<repos>) {
     if (language == null) return;
     languageData.set(
       language ?? "Other",
-      (languages.filter((lang) => lang === language).length /
-        languages.length) * 100,
+      Math.floor(
+        (languages.filter((lang) => lang === language).length /
+          languages.length) * 100,
+      ),
     );
   });
   const sortedLanguageData = [...languageData].sort(
