@@ -7,26 +7,26 @@
   <a href="https://heartbeat.sourtaste000.dev">
     <img src="https://img.shields.io/badge/dynamic/json?color=ec91d8&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-f69ee1?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffbeef?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffaaea?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23f4d3d5?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23e9d3d0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffc9e5?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffd3da?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-fae1dd" />
-<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
-<img src="https://img.shields.io/badge/-Rust-f8edeb" />
-<img src="https://img.shields.io/badge/-other-d8e2dc" />
-<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
-<img src="https://img.shields.io/badge/-Java-fec89a" />
-<img src="https://img.shields.io/badge/-Swift-e8e8e4" />
-<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
-<img src="https://img.shields.io/badge/-CSS-ffe5d9" />
+<img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-d8e2dc" />
+<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
+<img src="https://img.shields.io/badge/-Rust-fae1dd" />
+<img src="https://img.shields.io/badge/-other-fec89a" />
+<img src="https://img.shields.io/badge/-Shell-fcd5ce" />
+<img src="https://img.shields.io/badge/-Java-e8e8e4" />
+<img src="https://img.shields.io/badge/-Swift-ece4db" />
+<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-CSS-fec5bb" />
   <br />
 </div>
 
