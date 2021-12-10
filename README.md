@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Encourage flow.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -9,15 +9,15 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-TypeScript-fec89a" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
-<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-Other-ece4db" />
-<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
-<img src="https://img.shields.io/badge/-Java-fcd5ce" />
-<img src="https://img.shields.io/badge/-Swift-fae1dd" />
-<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
+  <img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
+<img src="https://img.shields.io/badge/-Rust-f8edeb" />
+<img src="https://img.shields.io/badge/-Other-ffe5d9" />
+<img src="https://img.shields.io/badge/-Shell-fae1dd" />
+<img src="https://img.shields.io/badge/-Java-fec89a" />
+<img src="https://img.shields.io/badge/-Swift-fcd5ce" />
+<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
 <img src="https://img.shields.io/badge/-CSS-d8e2dc" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23fec5bb?logo=Vim&labelColor=4c566a" />
