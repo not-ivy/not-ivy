@@ -7,16 +7,16 @@ import { parse } from "https://deno.land/std@0.95.0/datetime/mod.ts";
 //   "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json",
 // ).then((r) => r.json());
 const languageColors = [
-  "413c58",
-  "5a5e71",
-  "72808a",
-  "a3c4bc",
-  "b1ceb9",
-  "bfd7b5",
-  "d3e3bd",
-  "e7efc5",
-  "edebc7",
-  "f2e7c9",
+  "fec5bb",
+  "fcd5ce",
+  "fae1dd",
+  "f8edeb",
+  "e8e8e4",
+  "d8e2dc",
+  "ece4db",
+  "ffe5d9",
+  "ffd7ba",
+  "fec89a",
 ].sort(() => 0.5 - Math.random());
 
 const otherColors = [
