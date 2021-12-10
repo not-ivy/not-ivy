@@ -23,6 +23,9 @@ export function generateWakatimeGraph(stats: wakatime) {
     return "";
   }
   const data = stats.data;
+  data.forEach((element) => {
+    Math.floor(element.percent);
+  });
   let graph = "";
   for (let i = 0; i < data.length; i++) {
     graph += `${data[i].name}${repeat(" ", 20 - data[i].name.length)}[${
