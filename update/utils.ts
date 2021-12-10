@@ -35,7 +35,9 @@ export function generateWakatimeGraph(stats: wakatime) {
 }
 
 export function generateGithubLanguageStats(repos: Array<repos>) {
-  const languages = repos.map((repos) => repos.language);
+  const languages = repos.filter((repo) => !repo.fork).map((repos) =>
+    repos.language
+  );
   const uniqueLanguages = [...new Set(languages)];
   const languageData = new Map<string, number>();
   uniqueLanguages.forEach((language) => {
@@ -46,14 +48,17 @@ export function generateGithubLanguageStats(repos: Array<repos>) {
       ),
     );
   });
+  const sortedLanguageData = [...languageData].sort(
+    (a, b) => b[1] - a[1],
+  );
+  console.log(sortedLanguageData);
 
   let graph = "";
-  for (let i = 0; i < uniqueLanguages.length; i++) {
-    const [key, value] = languageData.entries().next().value;
-    graph += `${key}${repeat(" ", 20 - key.length)}[${repeat("#", value)}${
-      repeat(" ", 100 - value)
-    }] ${value}%\n`;
-  }
+  sortedLanguageData.forEach((data) => {
+    graph += `${data[0]}${repeat(" ", 20 - data[0].length)}[${
+      repeat("#", data[1])
+    }${repeat(" ", sortedLanguageData[0][1] - data[1])}] ${data[1]}%\n`;
+  });
   return graph.trimEnd();
 }
 
