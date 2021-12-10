@@ -1,7 +1,7 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Encourage flow.</i></b>
+  <b><i>Speak like a human.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
@@ -9,16 +9,16 @@
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-5c8fd6?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
-<img src="https://img.shields.io/badge/-HTML-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
+  <img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
+<img src="https://img.shields.io/badge/-HTML-fec5bb" />
+<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
 <img src="https://img.shields.io/badge/-Rust-f8edeb" />
-<img src="https://img.shields.io/badge/-Other-ffe5d9" />
-<img src="https://img.shields.io/badge/-Shell-fae1dd" />
-<img src="https://img.shields.io/badge/-Java-fec89a" />
-<img src="https://img.shields.io/badge/-Swift-fcd5ce" />
-<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
-<img src="https://img.shields.io/badge/-CSS-d8e2dc" />
+<img src="https://img.shields.io/badge/-Other-fec89a" />
+<img src="https://img.shields.io/badge/-Shell-e8e8e4" />
+<img src="https://img.shields.io/badge/-Java-fcd5ce" />
+<img src="https://img.shields.io/badge/-Swift-ffe5d9" />
+<img src="https://img.shields.io/badge/-JavaScript-fae1dd" />
+<img src="https://img.shields.io/badge/-CSS-ece4db" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23fec5bb?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%23ece4db?logo=CLion&labelColor=4c566a" />
