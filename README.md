@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Non-blocking is better than blocking.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ffbeef&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=e9d3d0&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
   </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffc9e5?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffb4ed?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f4d3d5?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fec5bb" />
-<img src="https://img.shields.io/badge/-HTML-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
-<img src="https://img.shields.io/badge/-Rust-ece4db" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
+<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
+<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
 <img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Java-ffe5d9" />
-<img src="https://img.shields.io/badge/-Swift-ffd7ba" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-CSS-fae1dd" />
+<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
+<img src="https://img.shields.io/badge/-Java-d8e2dc" />
+<img src="https://img.shields.io/badge/-Swift-fae1dd" />
+<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
+<img src="https://img.shields.io/badge/-CSS-f8edeb" />
   <br />
 </div>
 
@@ -55,20 +55,17 @@
 ## Stats
 
 ```
-TypeScript          [#############################] 29.84%
-Kotlin              [###########################  ] 27.4%
-JavaScript          [#################            ] 17.19%
-Bash                [#######                      ] 7.55%
-Markdown            [######                       ] 6.61%
-HTML                [####                         ] 4.11%
-Properties          [##                           ] 2.59%
-JSON                [##                           ] 2.26%
-Java                [#                            ] 1.25%
-YAML                [                             ] 0.42%
-Text                [                             ] 0.36%
-INI                 [                             ] 0.2%
-Groovy              [                             ] 0.16%
-Git Config          [                             ] 0.08%
+TypeScript          [##################################################] 50.44%
+JavaScript          [##############                                   ] 14.9%
+Markdown            [###########                                      ] 11.97%
+Kotlin              [##########                                        ] 10.05%
+Bash                [######                                           ] 6.54%
+HTML                [###                                              ] 3.56%
+JSON                [#                                                ] 1.64%
+YAML                [                                                  ] 0.36%
+Text                [                                                  ] 0.31%
+INI                 [                                                  ] 0.17%
+Git Config          [                                                  ] 0.07%
 ```
 
 ## Info
