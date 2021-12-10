@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Non-blocking is better than blocking.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ffbeef&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=ec91d8&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-f4d3d5?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f69ee1?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
-<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
-<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
-<img src="https://img.shields.io/badge/-other-ffd7ba" />
-<img src="https://img.shields.io/badge/-Shell-fec89a" />
-<img src="https://img.shields.io/badge/-Java-ffe5d9" />
-<img src="https://img.shields.io/badge/-Swift-fae1dd" />
-<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
-<img src="https://img.shields.io/badge/-CSS-d8e2dc" />
+<img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-f8edeb" />
+<img src="https://img.shields.io/badge/-Kotlin-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-other-ece4db" />
+<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
+<img src="https://img.shields.io/badge/-Java-fec89a" />
+<img src="https://img.shields.io/badge/-Swift-fec5bb" />
+<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-CSS-fcd5ce" />
   <br />
 </div>
 
@@ -71,17 +71,17 @@ Git Config          [                                                 ] 0.07%
 
 Most used languages:
 ```
-Shell               [#############] 13.513513513513514%
-JavaScript          [#############] 13.513513513513514%
-TypeScript          [##########  ] 10.81081081081081%
-HTML                [##########  ] 10.81081081081081%
-Kotlin              [########     ] 8.108108108108109%
-Rust                [########     ] 8.108108108108109%
-Java                [########     ] 8.108108108108109%
-C#                  [##          ] 2.7027027027027026%
-Lua                 [##          ] 2.7027027027027026%
-CSS                 [##          ] 2.7027027027027026%
-Python              [##          ] 2.7027027027027026%
+Shell               [#############] 13%
+JavaScript          [#############] 13%
+TypeScript          [##########   ] 10%
+HTML                [##########   ] 10%
+Kotlin              [########     ] 8%
+Rust                [########     ] 8%
+Java                [########     ] 8%
+C#                  [##           ] 2%
+Lua                 [##           ] 2%
+CSS                 [##           ] 2%
+Python              [##           ] 2%
 ```
 
 ## Info
