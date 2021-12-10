@@ -41,17 +41,16 @@ export function generateGithubLanguageStats(repos: Array<repos>) {
   const uniqueLanguages = [...new Set(languages)];
   const languageData = new Map<string, number>();
   uniqueLanguages.forEach((language) => {
+    if (language == null) return;
     languageData.set(
       language ?? "Other",
-      Math.floor(
-        languages.length / languages.filter((lang) => lang === language).length,
-      ),
+      (languages.filter((lang) => lang === language).length /
+        languages.length) * 100,
     );
   });
   const sortedLanguageData = [...languageData].sort(
     (a, b) => b[1] - a[1],
   );
-  console.log(sortedLanguageData);
 
   let graph = "";
   sortedLanguageData.forEach((data) => {
