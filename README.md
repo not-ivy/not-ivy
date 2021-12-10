@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Responsive is better than fast.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=f69ee1&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffaaea&label=Last%20Seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJoZWFydGJlYXQiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1oZWFydGJlYXQgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMjAuMiAyNDMuOGwtNDkuNyA5OS40Yy02IDEyLjEtMjMuNCAxMS43LTI4LjktLjZsLTU2LjktMTI2LjMtMzAgNzEuN0g2MC42bDE4Mi41IDE4Ni41YzcuMSA3LjMgMTguNiA3LjMgMjUuNyAwTDQ1MS40IDI4OEgzNDIuM2wtMjIuMS00NC4yek00NzMuNyA3My45bC0yLjQtMi41Yy01MS41LTUyLjYtMTM1LjgtNTIuNi0xODcuNCAwTDI1NiAxMDBsLTI3LjktMjguNWMtNTEuNS01Mi43LTEzNS45LTUyLjctMTg3LjQgMGwtMi40IDIuNEMtMTAuNCAxMjMuNy0xMi41IDIwMyAzMSAyNTZoMTAyLjRsMzUuOS04Ni4yYzUuNC0xMi45IDIzLjYtMTMuMiAyOS40LS40bDU4LjIgMTI5LjMgNDktOTcuOWM1LjktMTEuOCAyMi43LTExLjggMjguNiAwbDI3LjYgNTUuMkg0ODFjNDMuNS01MyA0MS40LTEzMi4zLTcuMy0xODIuMXoiPjwvcGF0aD48L3N2Zz4=&labelColor=4c566a" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffaaea?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffb4ed?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffb4ed?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffc9e5?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ec91d8?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
   <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fec89a" />
-<img src="https://img.shields.io/badge/-HTML-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
-<img src="https://img.shields.io/badge/-Rust-ffd7ba" />
+<img src="https://img.shields.io/badge/-TypeScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
+<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
+<img src="https://img.shields.io/badge/-Rust-f8edeb" />
 <img src="https://img.shields.io/badge/-other-fec5bb" />
 <img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Java-fcd5ce" />
-<img src="https://img.shields.io/badge/-Swift-fae1dd" />
-<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
-<img src="https://img.shields.io/badge/-CSS-ffe5d9" />
+<img src="https://img.shields.io/badge/-Java-ece4db" />
+<img src="https://img.shields.io/badge/-Swift-fcd5ce" />
+<img src="https://img.shields.io/badge/-JavaScript-fae1dd" />
+<img src="https://img.shields.io/badge/-CSS-ffd7ba" />
   <br />
 </div>
 
