@@ -35,8 +35,14 @@
 
 ## Stats
 
+Wakatime stats:
 ```
 %wakatime%
+```
+
+Most used languages:
+```
+%languages%
 ```
 
 ## Info

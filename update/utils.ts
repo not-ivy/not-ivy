@@ -1,4 +1,4 @@
-import { wakatime } from "./interfaces.ts";
+import { repos, wakatime } from "./interfaces.ts";
 
 export function githubAPI(endpoint: string, type: string) {
   if (type === "text") {
@@ -30,6 +30,29 @@ export function generateWakatimeGraph(stats: wakatime) {
     }${repeat(" ", Math.floor(data[0].percent) - data[i].percent)}] ${
       data[i].percent
     }%\n`;
+  }
+  return graph.trimEnd();
+}
+
+export function generateGithubLanguageStats(repos: Array<repos>) {
+  const languages = repos.map((repos) => repos.language);
+  const uniqueLanguages = [...new Set(languages)];
+  const languageData = new Map<string, number>();
+  uniqueLanguages.forEach((language) => {
+    languageData.set(
+      language ?? "Other",
+      Math.floor(
+        languages.length / languages.filter((lang) => lang === language).length,
+      ),
+    );
+  });
+
+  let graph = "";
+  for (let i = 0; i < languageData.size; i++) {
+    const [key, value] = languageData.entries().next().value;
+    graph += `${key}${repeat(" ", 20 - key.length)}[${repeat("#", value)}${
+      repeat(" ", 100 - value)
+    }] ${value}%\n`;
   }
   return graph.trimEnd();
 }

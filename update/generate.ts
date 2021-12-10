@@ -1,11 +1,17 @@
 // deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
 import { repos, wakatime } from "./interfaces.ts";
-import { generateWakatimeGraph, githubAPI } from "./utils.ts";
+import {
+  generateGithubLanguageStats,
+  generateWakatimeGraph,
+  githubAPI,
+} from "./utils.ts";
 import { parse } from "https://deno.land/std@0.95.0/datetime/mod.ts";
+import {
+  activeRepoDays,
+  archivedRepoCount,
+  starredRepoCount,
+} from "./config.ts";
 
-// const languageColors = await fetch(
-//   "https://raw.githubusercontent.com/ozh/github-colors/master/colors.json",
-// ).then((r) => r.json());
 const languageColors = [
   "fec5bb",
   "fcd5ce",
@@ -50,13 +56,16 @@ const wakatime: wakatime = await fetch(
 wakatime.data?.sort((a, b) => (a.percent > b.percent) ? -1 : 1);
 let template: string = await Deno.readTextFile("./template.md");
 
+// Random Quote================================================
 template = template.replace("%zen%", githubZen);
+// ============================================================
 
+// Active Repos=================================================
 const activeRepos = [];
 for (const repo of userRepos) {
   if (
     parse(repo.updated_at, "yyyy-MM-ddTHH:mm:ssZ").getTime() >
-      new Date().getTime() - (1000 * 60 * 60 * 24 * 7) &&
+      new Date().getTime() - (1000 * 60 * 60 * 24 * activeRepoDays) &&
     !repo.fork && !repo.archived
   ) {
     activeRepos.push(
@@ -64,27 +73,37 @@ for (const repo of userRepos) {
     );
   }
 }
+template = template.replace("%active%", activeRepos.join("\n"));
+// ============================================================
+
+// Top 5 starred repos=========================================
 template = template.replace(
   "%starred%",
-  userRepos.slice(0, 5).map((repo) =>
+  userRepos.slice(0, starredRepoCount).map((repo) =>
     `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
   ).join("\n"),
 );
+// ============================================================
 
+// Wakatime Graph==============================================
 template = template.replace(
   "%wakatime%",
   generateWakatimeGraph(wakatime),
 );
+// ============================================================
 
+// Archived Repos==============================================
 template = template.replace(
   "%archived%",
   userRepos.filter((repo) => repo.archived).filter((repo) =>
     repo.stargazers_count >= 1
   ).map((repo) =>
     `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`
-  ).join("\n"),
+  ).slice(0, archivedRepoCount).join("\n"),
 );
+// ============================================================
 
+// Languages You Use===========================================
 template = template.replace(
   "%languages%",
   uniqueLanguages.map((language) =>
@@ -93,9 +112,9 @@ template = template.replace(
     }-${languageColors.pop()}" />`
   ).join("\n"),
 );
+// ============================================================
 
-template = template.replace("%active%", activeRepos.join("\n"));
-
+// Random Colors===============================================
 // is there a better way to do this?
 const regex = /%randomcolor%/g;
 let match;
@@ -105,5 +124,13 @@ while ((match = regex.exec(template)) !== null) {
     otherColors.pop() ?? "9b90ff",
   );
 }
+// ============================================================
+
+// Languages Graph=============================================
+template = template.replace(
+  "%languages%",
+  generateGithubLanguageStats(userRepos),
+);
+// ============================================================
 
 await Deno.writeTextFile("./README.md", template);
