@@ -48,7 +48,7 @@ export function generateGithubLanguageStats(repos: Array<repos>) {
   });
 
   let graph = "";
-  for (let i = 0; i < languageData.size; i++) {
+  for (let i = 0; i < uniqueLanguages.length; i++) {
     const [key, value] = languageData.entries().next().value;
     graph += `${key}${repeat(" ", 20 - key.length)}[${repeat("#", value)}${
       repeat(" ", 100 - value)
