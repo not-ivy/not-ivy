@@ -23,14 +23,13 @@ export function generateWakatimeGraph(stats: wakatime) {
     return "";
   }
   const data = stats.data;
-  data.forEach((element) => {
-    Math.floor(element.percent);
-  });
   let graph = "";
   for (let i = 0; i < data.length; i++) {
     graph += `${data[i].name}${repeat(" ", 20 - data[i].name.length)}[${
       repeat("#", data[i].percent)
-    }${repeat(" ", data[0].percent - data[i].percent)}] ${data[i].percent}%\n`;
+    }${repeat(" ", Math.floor(data[0].percent) - data[i].percent)}] ${
+      data[i].percent
+    }%\n`;
   }
   return graph.trimEnd();
 }
