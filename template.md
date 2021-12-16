@@ -40,7 +40,7 @@ Wakatime stats:
 %wakatime%
 ```
 
-Most used languages:
+Most used languages(kinda broken):
 ```
 %languages%
 ```
