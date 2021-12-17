@@ -87,4 +87,4 @@ Python              [##           ] 2%
 
 ## Info
 
-This readme will update every 30 minutes through typescript magic! Check back later to see if anything changed!
+This readme will update every 60 minutes through typescript magic! Check back later to see if anything changed!
