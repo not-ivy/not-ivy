@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Keep it logically awesome.</i></b>
+  <b><i>Mind your words, they are important.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
     <img src="https://img.shields.io/badge/dynamic/json?color=ffcee0&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffbeef?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ec91d8?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffb4ed?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23e9d3d0?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffc9e5?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23f4d3d5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-f8edeb" />
-<img src="https://img.shields.io/badge/-HTML-fae1dd" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Kotlin-ece4db" />
+<img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
+<img src="https://img.shields.io/badge/-Rust-ece4db" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-f8edeb" />
+<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
 <img src="https://img.shields.io/badge/-Java-fec89a" />
-<img src="https://img.shields.io/badge/-Swift-ffd7ba" />
-<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
-<img src="https://img.shields.io/badge/-CSS-fec5bb" />
+<img src="https://img.shields.io/badge/-Swift-d8e2dc" />
+<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
+<img src="https://img.shields.io/badge/-CSS-fae1dd" />
   <br />
 </div>
 
@@ -56,11 +56,11 @@
 
 Wakatime stats:
 ```
-Rust                [###################################################################] 67.38%
-HTML                [##########################                                        ] 26.29%
-Kotlin              [###                                                               ] 3.13%
-TOML                [###                                                                ] 3%
-GitIgnore file      [                                                                  ] 0.21%
+Rust                [############################################################] 60.7%
+HTML                [##############################                             ] 30.01%
+TOML                [######                                                     ] 6.51%
+Kotlin              [##                                                         ] 2.6%
+GitIgnore file      [                                                           ] 0.18%
 ```
 
 Most used languages(kinda broken):
