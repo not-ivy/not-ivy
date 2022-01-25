@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Half measures are as bad as nothing at all.</i></b>
+  <b><i>Anything added dilutes everything else.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ffb4ed&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffd3da&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffbeef?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffc9e5?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23e9d3d0?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffc9e5?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23f4d3d5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fec5bb" />
-<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
-<img src="https://img.shields.io/badge/-Rust-ffd7ba" />
-<img src="https://img.shields.io/badge/-other-fae1dd" />
-<img src="https://img.shields.io/badge/-Shell-fec89a" />
-<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
-<img src="https://img.shields.io/badge/-Java-ffe5d9" />
-<img src="https://img.shields.io/badge/-Swift-ece4db" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-CSS-d8e2dc" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-HTML-fec89a" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-other-f8edeb" />
+<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
+<img src="https://img.shields.io/badge/-Kotlin-fae1dd" />
+<img src="https://img.shields.io/badge/-Java-d8e2dc" />
+<img src="https://img.shields.io/badge/-Swift-ffd7ba" />
+<img src="https://img.shields.io/badge/-JavaScript-fcd5ce" />
+<img src="https://img.shields.io/badge/-CSS-fec5bb" />
   <br />
 </div>
 
@@ -54,22 +54,22 @@
 
 Wakatime stats:
 ```
-TypeScript          [#########################################################] 57.85%
-JSON                [#################                                       ] 17.05%
-Arduino             [#########                                               ] 9.16%
-Objective-C         [#####                                                   ] 5.26%
-Svelte              [####                                                    ] 4.83%
-HTML                [##                                                      ] 2.04%
-Rust                [#                                                       ] 1.22%
-JavaScript          [#                                                       ] 1.19%
-Git Config          [                                                        ] 0.53%
-INI                 [                                                        ] 0.32%
-C++                 [                                                        ] 0.22%
-YAML                [                                                        ] 0.12%
-CSS                 [                                                        ] 0.09%
-Other               [                                                        ] 0.09%
-XML                 [                                                        ] 0.02%
-Text                [                                                        ] 0.01%
+TypeScript          [############################################################] 60%
+JSON                [############                                               ] 12.48%
+Arduino             [##########                                                 ] 10.13%
+Objective-C         [#####                                                      ] 5.82%
+Svelte              [#####                                                      ] 5.34%
+HTML                [##                                                         ] 2.26%
+Rust                [#                                                          ] 1.35%
+JavaScript          [#                                                          ] 1.15%
+Git Config          [                                                           ] 0.58%
+INI                 [                                                           ] 0.26%
+C++                 [                                                           ] 0.25%
+YAML                [                                                           ] 0.14%
+CSS                 [                                                           ] 0.1%
+Other               [                                                           ] 0.1%
+XML                 [                                                           ] 0.02%
+Text                [                                                           ] 0.02%
 ```
 
 Most used languages(kinda broken):
