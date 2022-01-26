@@ -1,31 +1,31 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Half measures are as bad as nothing at all.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=f4d3d5&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffcee0&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffaaea?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ec91d8?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffb4ed?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f4d3d5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffb4ed?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ffe5d9" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-HTML-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-fec89a" />
 <img src="https://img.shields.io/badge/-other-fcd5ce" />
 <img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
-<img src="https://img.shields.io/badge/-Java-fae1dd" />
-<img src="https://img.shields.io/badge/-Swift-ece4db" />
-<img src="https://img.shields.io/badge/-CSS-fec89a" />
+<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
+<img src="https://img.shields.io/badge/-Java-e8e8e4" />
+<img src="https://img.shields.io/badge/-Swift-ffd7ba" />
+<img src="https://img.shields.io/badge/-CSS-ffe5d9" />
 <img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
   <br />
 </div>
@@ -55,22 +55,24 @@
 
 Wakatime stats:
 ```
-TypeScript          [############################################################] 60%
-JSON                [############                                               ] 12.48%
-Arduino             [##########                                                 ] 10.13%
-Objective-C         [#####                                                      ] 5.82%
-Svelte              [#####                                                      ] 5.34%
-HTML                [##                                                         ] 2.26%
-Rust                [#                                                          ] 1.35%
-JavaScript          [#                                                          ] 1.15%
-Git Config          [                                                           ] 0.58%
-INI                 [                                                           ] 0.26%
-C++                 [                                                           ] 0.25%
-YAML                [                                                           ] 0.14%
-CSS                 [                                                           ] 0.1%
-Other               [                                                           ] 0.1%
-XML                 [                                                           ] 0.02%
-Text                [                                                           ] 0.02%
+TypeScript          [#########################] 25.04%
+CSS                 [###############         ] 15.14%
+Markdown            [#############           ] 13.68%
+HTML                [###########             ] 11.97%
+JavaScript          [###########             ] 11.59%
+JSON                [#######                 ] 7.63%
+Arduino             [####                    ] 4.23%
+Rust                [####                    ] 4.11%
+Objective-C         [##                      ] 2.43%
+Svelte              [##                      ] 2.23%
+TOML                [                        ] 0.88%
+Git Config          [                        ] 0.62%
+INI                 [                        ] 0.24%
+C++                 [                        ] 0.1%
+YAML                [                        ] 0.06%
+Other               [                        ] 0.04%
+XML                 [                        ] 0.01%
+Text                [                        ] 0.01%
 ```
 
 Most used languages(kinda broken):
