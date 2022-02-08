@@ -1,31 +1,31 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Practicality beats purity.</i></b>
+  <b><i>Keep it logically awesome.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ffcee0&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=ffc9e5&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ec91d8?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffd3da?labelColor=4c566a&logo=Discord" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffd3da?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23e9d3d0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fcd5ce" />
-<img src="https://img.shields.io/badge/-HTML-d8e2dc" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-other-ece4db" />
-<img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-Java-fae1dd" />
-<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
-<img src="https://img.shields.io/badge/-Swift-ffe5d9" />
+<img src="https://img.shields.io/badge/-TypeScript-e8e8e4" />
+<img src="https://img.shields.io/badge/-HTML-ffd7ba" />
+<img src="https://img.shields.io/badge/-Rust-ece4db" />
+<img src="https://img.shields.io/badge/-other-f8edeb" />
+<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
+<img src="https://img.shields.io/badge/-JavaScript-fae1dd" />
+<img src="https://img.shields.io/badge/-Java-d8e2dc" />
+<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
+<img src="https://img.shields.io/badge/-Swift-fec89a" />
 <img src="https://img.shields.io/badge/-CSS-fec5bb" />
   <br />
 </div>
@@ -42,6 +42,7 @@
 
 - [the-thunderhead/bot](https://github.com/the-thunderhead/bot) Kotlin rewrite of the Thunderhead discord bot ★1
 - [sourTaste000/FunIntercom](https://github.com/sourTaste000/FunIntercom) funny scp sl plugin ★0
+- [sourTaste000/pythonlang3](https://github.com/sourTaste000/pythonlang3) no ★0
 
 ## Archived Projects
 
@@ -68,17 +69,17 @@ Other               [                                   ] 0.01%
 
 Most used languages(kinda broken):
 ```
-TypeScript          [###############] 15%
-HTML                [############   ] 12%
-Shell               [############   ] 12%
-JavaScript          [############   ] 12%
-Rust                [##########     ] 10%
-Java                [#######        ] 7%
-Kotlin              [#####          ] 5%
-Lua                 [##             ] 2%
-C#                  [##             ] 2%
-CSS                 [##             ] 2%
-Python              [##             ] 2%
+TypeScript          [##############] 14%
+HTML                [############  ] 12%
+Shell               [############  ] 12%
+JavaScript          [############  ] 12%
+Rust                [#########     ] 9%
+Java                [#######       ] 7%
+Kotlin              [####          ] 4%
+Lua                 [##            ] 2%
+C#                  [##            ] 2%
+CSS                 [##            ] 2%
+Python              [##            ] 2%
 ```
 
 ## Info
