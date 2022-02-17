@@ -84,3 +84,5 @@ Python              [##            ] 2%
 ## Info
 
 This readme will update every 30 minutes through typescript magic! Check back later to see if anything changed!
+
+![](https://hit.yhype.me/github/profile?user_id=47074495)
