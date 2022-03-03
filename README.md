@@ -1,32 +1,32 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
-  <b><i>Encourage flow.</i></b>
+  <b><i>Favor focus over features.</i></b>
   <br />
   <br />
   <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=ec91d8&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=e9d3d0&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffd3da?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffb4ed?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffc9e5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ec91d8?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffcee0?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fec5bb" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
 <img src="https://img.shields.io/badge/-Rust-ffd7ba" />
-<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
+<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
 <img src="https://img.shields.io/badge/-other-d8e2dc" />
-<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
-<img src="https://img.shields.io/badge/-Shell-ece4db" />
-<img src="https://img.shields.io/badge/-Java-ffe5d9" />
-<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
-<img src="https://img.shields.io/badge/-Lua-fcd5ce" />
-<img src="https://img.shields.io/badge/-C#-fae1dd" />
+<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
+<img src="https://img.shields.io/badge/-Shell-fcd5ce" />
+<img src="https://img.shields.io/badge/-Java-fec89a" />
+<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
+<img src="https://img.shields.io/badge/-Lua-e8e8e4" />
+<img src="https://img.shields.io/badge/-C#-f8edeb" />
   <br />
 </div>
 
@@ -54,18 +54,18 @@
 
 Wakatime stats:
 ```
-JavaScript          [######################################] 38.14%
-HTML                [#########################            ] 25.99%
-CSS                 [#######################              ] 23.22%
-TypeScript          [####                                 ] 4.19%
-Text                [###                                  ] 3.76%
-JSON                [##                                   ] 2.22%
-XML                 [#                                    ] 1.54%
-Bash                [                                     ] 0.55%
-Git Config          [                                     ] 0.23%
-Other               [                                     ] 0.1%
-YAML                [                                     ] 0.03%
-MiniScript          [                                     ] 0.02%
+JavaScript          [#######################################] 39.71%
+HTML                [########################              ] 24.91%
+CSS                 [#####################                 ] 21.17%
+TypeScript          [######                                ] 6.64%
+Text                [####                                  ] 4.07%
+JSON                [##                                    ] 2.5%
+Bash                [                                      ] 0.62%
+Git Config          [                                      ] 0.14%
+Other               [                                      ] 0.09%
+XML                 [                                      ] 0.08%
+YAML                [                                      ] 0.05%
+MiniScript          [                                      ] 0.02%
 ```
 
 Most used languages(kinda broken):
