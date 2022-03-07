@@ -4,9 +4,6 @@
   <b><i>%zen%</i></b>
   <br />
   <br />
-  <a href="https://heartbeat.sourtaste000.dev">
-    <img src="https://img.shields.io/badge/dynamic/json?color=%randomcolor%&label=Last%20seen&query=last_beat_formatted&suffix=%20ago&url=https%3A%2F%2Fheartbeat.sourtaste000.dev%2Fapi%2Fstats" />
-  </a>
   <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-%randomcolor%?labelColor=4c566a&logo=Discord" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23%randomcolor%?logo=Vim&labelColor=4c566a" />
