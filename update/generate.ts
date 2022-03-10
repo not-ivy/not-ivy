@@ -66,7 +66,7 @@ for (const repo of userRepos) {
   if (
     parse(repo.updated_at, "yyyy-MM-ddTHH:mm:ssZ").getTime() >
       new Date().getTime() - (1000 * 60 * 60 * 24 * activeRepoDays) &&
-    !repo.fork && !repo.archived
+    !repo.fork && !repo.archived && !repo.private
   ) {
     activeRepos.push(
       `- [${repo.owner.login}/${repo.name}](${repo.html_url}) ${repo.description} ★${repo.stargazers_count}`,
