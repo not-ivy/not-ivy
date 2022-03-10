@@ -47,7 +47,7 @@ const userRepos: Array<repos> = await githubAPI(
 userRepos.sort((a, b) => (a.stargazers_count > b.stargazers_count) ? -1 : 1);
 
 const uniqueLanguages: (string | null | undefined)[] = [
-  ...new Set(userRepos.map((repo) => repo.language).filter((repo) => !repo.fork),
+  ...new Set(userRepos.map((repo) => repo.language).filter((repo) => !repo.fork))),
 ].slice(0, 10);
 
 const wakatime: wakatime = await fetch(
