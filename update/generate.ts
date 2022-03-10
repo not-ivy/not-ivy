@@ -48,7 +48,7 @@ userRepos.sort((a, b) => (a.stargazers_count > b.stargazers_count) ? -1 : 1);
 
 const uniqueLanguages: (string | null | undefined)[] = [
   ...new Set(
-    userRepos.map((repo) => repo.language).filter((repo) => !repo.fork),
+    userRepos.filter((repo) => !repo.fork).map((repo) => repo.language),
   ),
 ].slice(0, 10);
 
