@@ -4,26 +4,26 @@
   <b><i>Anything added dilutes everything else.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffd3da?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffbeef?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23f4d3d5?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23e9d3d0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffb4ed?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f4d3d5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffbeef?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ec91d8?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
 <img src="https://img.shields.io/badge/-Rust-fec5bb" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-other-ffe5d9" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Java-fcd5ce" />
-<img src="https://img.shields.io/badge/-Kotlin-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-fec89a" />
-<img src="https://img.shields.io/badge/-Lua-fae1dd" />
-<img src="https://img.shields.io/badge/-C#-f8edeb" />
+<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
+<img src="https://img.shields.io/badge/-other-f8edeb" />
+<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
+<img src="https://img.shields.io/badge/-Java-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
+<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
+<img src="https://img.shields.io/badge/-Lua-ffe5d9" />
+<img src="https://img.shields.io/badge/-C#-fcd5ce" />
   <br />
 </div>
 
