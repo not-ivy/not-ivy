@@ -1,5 +1,5 @@
 <!-- deno-fmt-ignore-file -->
-<h1 align="center">sourTaste000&emsp;&emsp;&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
+<h1 align="center">i-spin&emsp;&emsp;<img src="https://avatars.githubusercontent.com/u/47074495" width="50px"></h1>
 <div align="center">
   <b><i>Practicality beats purity.</i></b>
   <br />
