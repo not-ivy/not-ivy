@@ -1,29 +1,29 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">i-spin</h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Speak like a human.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-f4d3d5?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffc9e5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffbeef?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
-<img src="https://img.shields.io/badge/-Rust-fec5bb" />
-<img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
-<img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Shell-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
-<img src="https://img.shields.io/badge/-Java-e8e8e4" />
-<img src="https://img.shields.io/badge/-HTML-fae1dd" />
-<img src="https://img.shields.io/badge/-Lua-fec89a" />
-<img src="https://img.shields.io/badge/-C#-ffe5d9" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
+<img src="https://img.shields.io/badge/-other-ffd7ba" />
+<img src="https://img.shields.io/badge/-Shell-f8edeb" />
+<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
+<img src="https://img.shields.io/badge/-Java-fec5bb" />
+<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
+<img src="https://img.shields.io/badge/-Lua-ffe5d9" />
+<img src="https://img.shields.io/badge/-C#-fae1dd" />
   <br />
 </div>
 
@@ -51,17 +51,15 @@
 
 Wakatime stats:
 ```
-Rust                [###########################################] 43.23%
-JavaScript          [#################################         ] 33.64%
-HTML                [############                              ] 12.52%
-CSS                 [#######                                   ] 7.31%
-TOML                [#                                         ] 1.39%
-XML                 [#                                         ] 1.21%
-Text                [                                          ] 0.39%
-D                   [                                          ] 0.22%
-JSON                [                                          ] 0.04%
-TypeScript          [                                          ] 0.04%
-Git Config          [                                          ] 0.02%
+Rust                [####################################################################################] 84.98%
+TOML                [####                                                                               ] 4.3%
+HTML                [###                                                                                ] 3.81%
+JavaScript          [###                                                                                ] 3.03%
+TypeScript          [##                                                                                 ] 2.42%
+CSS                 [                                                                                   ] 0.46%
+JSON                [                                                                                   ] 0.44%
+D                   [                                                                                   ] 0.33%
+GitIgnore file      [                                                                                   ] 0.23%
 ```
 
 Most used languages:
