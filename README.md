@@ -4,26 +4,26 @@
   <b><i>Non-blocking is better than blocking.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffc9e5?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f69ee1?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffb4ed?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23f4d3d5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
-<img src="https://img.shields.io/badge/-Rust-fec89a" />
-<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
-<img src="https://img.shields.io/badge/-other-ffd7ba" />
-<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
-<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
-<img src="https://img.shields.io/badge/-Java-fae1dd" />
-<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
-<img src="https://img.shields.io/badge/-Lua-fec5bb" />
-<img src="https://img.shields.io/badge/-C#-e8e8e4" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
+<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
+<img src="https://img.shields.io/badge/-Java-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-fec89a" />
+<img src="https://img.shields.io/badge/-Lua-fcd5ce" />
+<img src="https://img.shields.io/badge/-C#-fec5bb" />
   <br />
 </div>
 
@@ -51,14 +51,14 @@
 
 Wakatime stats:
 ```
-Rust                [###############################################################################] 79.97%
-HTML                [#####                                                                         ] 5.95%
-JavaScript          [####                                                                          ] 4.73%
-TOML                [###                                                                           ] 3.81%
-TypeScript          [###                                                                           ] 3.78%
-CSS                 [                                                                              ] 0.72%
-JSON                [                                                                              ] 0.68%
-GitIgnore file      [                                                                              ] 0.37%
+Rust                [############################################] 44.41%
+JavaScript          [###########################                ] 27.8%
+HTML                [##############                             ] 14.96%
+TypeScript          [#####                                      ] 5.28%
+TOML                [####                                       ] 4.87%
+JSON                [#                                          ] 1.18%
+CSS                 [#                                           ] 1%
+GitIgnore file      [                                           ] 0.51%
 ```
 
 Most used languages:
