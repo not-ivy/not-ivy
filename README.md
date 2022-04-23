@@ -1,29 +1,29 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">i-spin</h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffd3da?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-e9d3d0?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%23ffc9e5?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fec89a" />
-<img src="https://img.shields.io/badge/-Rust-d8e2dc" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-other-fae1dd" />
-<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
-<img src="https://img.shields.io/badge/-Kotlin-ffe5d9" />
-<img src="https://img.shields.io/badge/-Java-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-f8edeb" />
-<img src="https://img.shields.io/badge/-Lua-fcd5ce" />
-<img src="https://img.shields.io/badge/-C#-fec5bb" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
+<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-fec89a" />
+<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
+<img src="https://img.shields.io/badge/-Java-ffe5d9" />
+<img src="https://img.shields.io/badge/-HTML-d8e2dc" />
+<img src="https://img.shields.io/badge/-Lua-fec5bb" />
+<img src="https://img.shields.io/badge/-C#-ece4db" />
   <br />
 </div>
 
@@ -51,11 +51,13 @@
 
 Wakatime stats:
 ```
-HTML                [###########################################] 43.38%
-JavaScript          [#############################             ] 29.8%
-TypeScript          [####################                      ] 20.32%
-CSS                 [####                                      ] 4.19%
-JSON                [##                                        ] 2.3%
+HTML                [###########################################] 43.06%
+JavaScript          [#############################             ] 29.74%
+TypeScript          [####################                      ] 20.18%
+CSS                 [####                                      ] 4.52%
+JSON                [##                                        ] 2.28%
+Other               [                                          ] 0.21%
+Text                [                                           ] 0%
 ```
 
 Most used languages:
