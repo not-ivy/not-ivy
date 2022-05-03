@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">i-spin</h1>
 <div align="center">
-  <b><i>Anything added dilutes everything else.</i></b>
+  <b><i>Practicality beats purity.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffbeef?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffc9e5?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ec91d8?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffaaea?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f4d3d5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffb4ed?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffbeef?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fcd5ce" />
+<img src="https://img.shields.io/badge/-TypeScript-e8e8e4" />
 <img src="https://img.shields.io/badge/-Rust-fec89a" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-other-ece4db" />
-<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
-<img src="https://img.shields.io/badge/-Kotlin-fae1dd" />
+<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
+<img src="https://img.shields.io/badge/-other-fae1dd" />
+<img src="https://img.shields.io/badge/-Shell-fec5bb" />
+<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
 <img src="https://img.shields.io/badge/-Java-f8edeb" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
+<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
 <img src="https://img.shields.io/badge/-Lua-ffe5d9" />
 <img src="https://img.shields.io/badge/-C#-d8e2dc" />
   <br />
