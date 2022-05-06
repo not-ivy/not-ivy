@@ -4,26 +4,26 @@
   <b><i>Approachable is better than simple.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffd3da?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffc9e5?labelColor=4c566a&logo=Discord" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffcee0?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffb4ed?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-Rust-fae1dd" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-other-d8e2dc" />
-<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
-<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
-<img src="https://img.shields.io/badge/-Java-fcd5ce" />
-<img src="https://img.shields.io/badge/-HTML-ece4db" />
-<img src="https://img.shields.io/badge/-Lua-fec5bb" />
-<img src="https://img.shields.io/badge/-C#-ffd7ba" />
+<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
+<img src="https://img.shields.io/badge/-Rust-f8edeb" />
+<img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-other-ece4db" />
+<img src="https://img.shields.io/badge/-Shell-e8e8e4" />
+<img src="https://img.shields.io/badge/-Kotlin-ffe5d9" />
+<img src="https://img.shields.io/badge/-Java-fec5bb" />
+<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
+<img src="https://img.shields.io/badge/-Lua-fec89a" />
+<img src="https://img.shields.io/badge/-C#-fae1dd" />
   <br />
 </div>
 
