@@ -1,29 +1,29 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">i-spin</h1>
 <div align="center">
-  <b><i>Anything added dilutes everything else.</i></b>
+  <b><i>Encourage flow.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ffcee0?labelColor=4c566a&logo=Discord" />
+  <img src="https://img.shields.io/badge/Discord-sourTaste000%232391-ec91d8?labelColor=4c566a&logo=Discord" />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23ffd3da?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ec91d8?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffc9e5?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23e9d3d0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-TypeScript-fec5bb" />
+<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
 <img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-fae1dd" />
 <img src="https://img.shields.io/badge/-Kotlin-ece4db" />
 <img src="https://img.shields.io/badge/-Java-f8edeb" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
-<img src="https://img.shields.io/badge/-Lua-ffe5d9" />
-<img src="https://img.shields.io/badge/-C#-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-ffd7ba" />
+<img src="https://img.shields.io/badge/-Lua-d8e2dc" />
+<img src="https://img.shields.io/badge/-C#-ffe5d9" />
   <br />
 </div>
 
@@ -51,13 +51,13 @@
 
 Wakatime stats:
 ```
-JavaScript          [###########################################################################] 75.28%
-TypeScript          [##########                                                                ] 10.77%
-CSS                 [##########                                                                ] 10.37%
-HTML                [#                                                                         ] 1.84%
-JSON                [#                                                                         ] 1.63%
-Git Config          [                                                                          ] 0.06%
-XML                 [                                                                          ] 0.05%
+JavaScript          [##############################################################################] 78.68%
+TypeScript          [#########                                                                    ] 9.29%
+CSS                 [########                                                                     ] 8.94%
+HTML                [#                                                                            ] 1.58%
+JSON                [#                                                                            ] 1.41%
+Git Config          [                                                                             ] 0.05%
+XML                 [                                                                             ] 0.04%
 ```
 
 Most used languages:
