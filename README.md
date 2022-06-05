@@ -9,22 +9,22 @@
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23ffaaea?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ec91d8?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f4d3d5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f4d3d5?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-Rust-fae1dd" />
+<img src="https://img.shields.io/badge/-TypeScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-Rust-f8edeb" />
 <img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
-<img src="https://img.shields.io/badge/-other-d8e2dc" />
-<img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
-<img src="https://img.shields.io/badge/-Java-fec89a" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
+<img src="https://img.shields.io/badge/-Java-fae1dd" />
 <img src="https://img.shields.io/badge/-HTML-fcd5ce" />
 <img src="https://img.shields.io/badge/-Lua-fec5bb" />
-<img src="https://img.shields.io/badge/-C#-ffe5d9" />
+<img src="https://img.shields.io/badge/-C#-d8e2dc" />
   <br />
 </div>
 
