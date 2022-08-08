@@ -1,5 +1,5 @@
 <!-- deno-fmt-ignore-file -->
-<h1 align="center">i-spin</h1>
+<h1 align="center">ivy</h1>
 <div align="center">
   <b><i>%zen%</i></b>
   <br />
