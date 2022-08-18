@@ -8,7 +8,7 @@ I’m barely breathing
 All of my dreams
 No longer being in my story
 
-No body can see
+Nobody can see
 Now I'm standing
 On the way you lead
 Trying everything but fading
