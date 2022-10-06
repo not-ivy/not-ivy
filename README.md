@@ -1,27 +1,26 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Avoid administrative distraction.</i></b>
+  <b><i>Practicality beats purity.</i></b>
   <br />
   <br />
+  <img src="https://img.shields.io/badge/-Vim-%23ffb4ed?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffc9e5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
-  <br />
-<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
-<img src="https://img.shields.io/badge/-Rust-fae1dd" />
-<img src="https://img.shields.io/badge/-TypeScript-ffe5d9" />
-<img src="https://img.shields.io/badge/-other-fec89a" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
-<img src="https://img.shields.io/badge/-Vue-fcd5ce" />
-<img src="https://img.shields.io/badge/-HTML-ffd7ba" />
-<img src="https://img.shields.io/badge/-Lua-f8edeb" />
+<img src="https://img.shields.io/badge/-JavaScript-d8e2dc" />
+<img src="https://img.shields.io/badge/-Rust-fec89a" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Shell-f8edeb" />
+<img src="https://img.shields.io/badge/-Kotlin-fae1dd" />
+<img src="https://img.shields.io/badge/-Vue-ffd7ba" />
+<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
+<img src="https://img.shields.io/badge/-Lua-ffe5d9" />
 <img src="https://img.shields.io/badge/-C#-fec5bb" />
   <br />
 </div>
@@ -36,7 +35,8 @@
 
 ## Active Projects
 
-- [not-ivy/isotope](https://github.com/not-ivy/isotope) null ★0
+- [lambda-client-unofficial/plugin-repo](https://github.com/lambda-client-unofficial/plugin-repo) Plugins that does not belong to the official organization ★2
+- [not-ivy/hole](https://github.com/not-ivy/hole) Simple and extensible storage service implementation with optional encryption. ★0
 
 ## Archived Projects
 
@@ -50,30 +50,30 @@
 
 Wakatime stats:
 ```
-TypeScript          [#################################################################################################] 97.05%
-JSON                [#                                                                                               ] 1.07%
-Text                [                                                                                                ] 0.75%
-Rust                [                                                                                                ] 0.41%
-CSS                 [                                                                                                ] 0.28%
-TOML                [                                                                                                ] 0.25%
-JavaScript          [                                                                                                ] 0.15%
-Other               [                                                                                                ] 0.03%
-Git Config          [                                                                                                ] 0.01%
+TypeScript          [########################################################################################] 88.44%
+JavaScript          [#####                                                                                  ] 5.97%
+Other               [##                                                                                     ] 2.52%
+JSON                [#                                                                                      ] 1.19%
+Text                [                                                                                       ] 0.84%
+Rust                [                                                                                       ] 0.46%
+CSS                 [                                                                                       ] 0.3%
+TOML                [                                                                                       ] 0.27%
+Git Config          [                                                                                       ] 0.01%
 ```
 
 Most used languages:
 ```
-TypeScript          [##############################] 30%
-JavaScript          [#########################     ] 25%
-Shell               [#########                     ] 9%
-Rust                [######                        ] 6%
-Kotlin              [####                          ] 4%
-HTML                [####                          ] 4%
-Vue                 [##                            ] 2%
-Lua                 [##                            ] 2%
-C#                  [##                            ] 2%
-CSS                 [##                            ] 2%
-Python              [##                            ] 2%
+TypeScript          [############################] 28%
+JavaScript          [#######################     ] 23%
+Shell               [#########                   ] 9%
+Rust                [#######                     ] 7%
+Kotlin              [####                        ] 4%
+HTML                [####                        ] 4%
+Vue                 [##                          ] 2%
+Lua                 [##                          ] 2%
+C#                  [##                          ] 2%
+CSS                 [##                          ] 2%
+Python              [##                          ] 2%
 ```
 
 ## Info
