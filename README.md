@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Avoid administrative distraction.</i></b>
+  <b><i>Favor focus over features.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffc9e5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffcee0?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
-<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
+<img src="https://img.shields.io/badge/-JavaScript-f8edeb" />
+<img src="https://img.shields.io/badge/-TypeScript-e8e8e4" />
 <img src="https://img.shields.io/badge/-other-fec5bb" />
-<img src="https://img.shields.io/badge/-Go-d8e2dc" />
-<img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
+<img src="https://img.shields.io/badge/-Go-ffd7ba" />
+<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
+<img src="https://img.shields.io/badge/-Kotlin-ffe5d9" />
 <img src="https://img.shields.io/badge/-Vue-fec89a" />
-<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
-<img src="https://img.shields.io/badge/-Lua-fae1dd" />
+<img src="https://img.shields.io/badge/-HTML-fae1dd" />
+<img src="https://img.shields.io/badge/-Lua-ece4db" />
   <br />
 </div>
 
@@ -36,7 +36,7 @@
 ## Active Projects
 
 - [not-ivy/not-ivy](https://github.com/not-ivy/not-ivy) no longer dynamically updated readme ★3
-- [not-ivy/melon](https://github.com/not-ivy/melon) A (wip) sweet link shortener. ★0
+- [not-ivy/melon](https://github.com/not-ivy/melon) A sweet link shortener. ★0
 
 ## Archived Projects
 
