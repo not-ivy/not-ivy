@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Mind your words, they are important.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffc9e5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffb4ed?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffd3da?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffc9e5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
-<img src="https://img.shields.io/badge/-Rust-f8edeb" />
-<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
-<img src="https://img.shields.io/badge/-Go-fcd5ce" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
+<img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-Go-fec89a" />
 <img src="https://img.shields.io/badge/-other-e8e8e4" />
-<img src="https://img.shields.io/badge/-Shell-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
-<img src="https://img.shields.io/badge/-Vue-fec89a" />
-<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
-<img src="https://img.shields.io/badge/-Lua-fae1dd" />
+<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
+<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
+<img src="https://img.shields.io/badge/-Vue-fec5bb" />
+<img src="https://img.shields.io/badge/-HTML-ece4db" />
+<img src="https://img.shields.io/badge/-Lua-fcd5ce" />
   <br />
 </div>
 
