@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Non-blocking is better than blocking.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23f4d3d5?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23e9d3d0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-f8edeb" />
-<img src="https://img.shields.io/badge/-Go-e8e8e4" />
-<img src="https://img.shields.io/badge/-Rust-fae1dd" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-other-ece4db" />
+<img src="https://img.shields.io/badge/-TypeScript-fcd5ce" />
+<img src="https://img.shields.io/badge/-Go-fae1dd" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
+<img src="https://img.shields.io/badge/-other-d8e2dc" />
 <img src="https://img.shields.io/badge/-Markdown-ffd7ba" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
+<img src="https://img.shields.io/badge/-Shell-f8edeb" />
 <img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
-<img src="https://img.shields.io/badge/-Vue-ffe5d9" />
-<img src="https://img.shields.io/badge/-HTML-fcd5ce" />
+<img src="https://img.shields.io/badge/-Vue-fec89a" />
+<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
   <br />
 </div>
 
