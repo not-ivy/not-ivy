@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Design for failure.</i></b>
+  <b><i>Practicality beats purity.</i></b>
   <br />
   <br />
   <img src="https://img.shields.io/badge/-Vim-%23ffc9e5?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ec91d8?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffd3da?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffbeef?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffbeef?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23e9d3d0?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-f8edeb" />
-<img src="https://img.shields.io/badge/-Go-ffd7ba" />
+<img src="https://img.shields.io/badge/-TypeScript-fec89a" />
+<img src="https://img.shields.io/badge/-Go-fae1dd" />
 <img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
-<img src="https://img.shields.io/badge/-other-fae1dd" />
-<img src="https://img.shields.io/badge/-Markdown-fec89a" />
-<img src="https://img.shields.io/badge/-Shell-d8e2dc" />
-<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
-<img src="https://img.shields.io/badge/-Vue-fec5bb" />
-<img src="https://img.shields.io/badge/-HTML-ece4db" />
+<img src="https://img.shields.io/badge/-JavaScript-ffd7ba" />
+<img src="https://img.shields.io/badge/-other-ece4db" />
+<img src="https://img.shields.io/badge/-Markdown-d8e2dc" />
+<img src="https://img.shields.io/badge/-Shell-fcd5ce" />
+<img src="https://img.shields.io/badge/-Kotlin-fec5bb" />
+<img src="https://img.shields.io/badge/-Vue-ffe5d9" />
+<img src="https://img.shields.io/badge/-HTML-f8edeb" />
   <br />
 </div>
 
@@ -30,13 +30,13 @@
 - [not-ivy/melon](https://github.com/not-ivy/melon) A sweet link shortener. ★5
 - [Project-Sparrow/Digital-Fox](https://github.com/Project-Sparrow/Digital-Fox) 🌎 Front-end of Project Sparrow ★5
 - [Project-Sparrow/FoxBow](https://github.com/Project-Sparrow/FoxBow) 🏹 FoxBow - Backend for Project Sparrow ★5
+- [Project-Sparrow/foxlake](https://github.com/Project-Sparrow/foxlake) 🍰 Sparrow UI component library built with TailwindCSS. ★5
 - [not-ivy/compass](https://github.com/not-ivy/compass) a library for discord webhooks, written using rust ★4
-- [not-ivy/website](https://github.com/not-ivy/website) old website ★4
 
 ## Active Projects
 
-- [Project-Sparrow/foxlake](https://github.com/Project-Sparrow/foxlake) 🍰 Sparrow UI component library built with TailwindCSS. ★4
-- [Project-Sparrow/snowflake](https://github.com/Project-Sparrow/snowflake) ❄️ A simple, dependency-free snowflake generation library ★2
+- [Project-Sparrow/foxlake](https://github.com/Project-Sparrow/foxlake) 🍰 Sparrow UI component library built with TailwindCSS. ★5
+- [Project-Sparrow/snowflake](https://github.com/Project-Sparrow/snowflake) ❄️ A simple, dependency-free snowflake generation library ★3
 - [Project-Sparrow/.github](https://github.com/Project-Sparrow/.github) ⚙️ Github files that are used by sparrow ★0
 
 ## Archived Projects
