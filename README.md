@@ -1,25 +1,25 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Encourage flow.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffb4ed?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffcee0?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffd3da?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23e9d3d0?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffd3da?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
-<img src="https://img.shields.io/badge/-Go-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-fec89a" />
+<img src="https://img.shields.io/badge/-TypeScript-fcd5ce" />
+<img src="https://img.shields.io/badge/-Go-fec89a" />
+<img src="https://img.shields.io/badge/-Rust-ece4db" />
 <img src="https://img.shields.io/badge/-JavaScript-fae1dd" />
-<img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Markdown-e8e8e4" />
+<img src="https://img.shields.io/badge/-other-d8e2dc" />
+<img src="https://img.shields.io/badge/-Markdown-ffd7ba" />
 <img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-e8e8e4" />
 <img src="https://img.shields.io/badge/-Vue-ffe5d9" />
 <img src="https://img.shields.io/badge/-HTML-fec5bb" />
   <br />
@@ -51,19 +51,19 @@
 
 Most used languages:
 ```
-TypeScript          [################################] 32%
-JavaScript          [##################              ] 18%
-Rust                [#######                         ] 7%
-Shell               [#######                         ] 7%
-Markdown            [#####                           ] 5%
-Go                  [###                             ] 3%
-HTML                [###                             ] 3%
-Kotlin              [#                               ] 1%
-Vue                 [#                               ] 1%
-Lua                 [#                               ] 1%
-C#                  [#                               ] 1%
-CSS                 [#                               ] 1%
-Python              [#                               ] 1%
+TypeScript          [###############################] 31%
+JavaScript          [##################             ] 18%
+Rust                [#######                        ] 7%
+Shell               [#######                        ] 7%
+Markdown            [#####                          ] 5%
+Go                  [###                            ] 3%
+HTML                [###                            ] 3%
+Kotlin              [#                              ] 1%
+Vue                 [#                              ] 1%
+Lua                 [#                              ] 1%
+C#                  [#                              ] 1%
+CSS                 [#                              ] 1%
+Python              [#                              ] 1%
 ```
 
 ## Info
