@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Keep it logically awesome.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffb4ed?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffcee0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffd3da?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffd3da?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ec91d8?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f69ee1?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffaaea?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffb4ed?logo=Linux&labelColor=4c566a" />
   <br />
 <img src="https://img.shields.io/badge/-TypeScript-ffd7ba" />
-<img src="https://img.shields.io/badge/-Go-fcd5ce" />
-<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
-<img src="https://img.shields.io/badge/-JavaScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-Markdown-fae1dd" />
-<img src="https://img.shields.io/badge/-other-fec89a" />
-<img src="https://img.shields.io/badge/-Shell-fec5bb" />
-<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
-<img src="https://img.shields.io/badge/-Vue-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-f8edeb" />
+<img src="https://img.shields.io/badge/-Go-ffe5d9" />
+<img src="https://img.shields.io/badge/-Rust-d8e2dc" />
+<img src="https://img.shields.io/badge/-JavaScript-ece4db" />
+<img src="https://img.shields.io/badge/-Markdown-e8e8e4" />
+<img src="https://img.shields.io/badge/-other-fae1dd" />
+<img src="https://img.shields.io/badge/-Shell-fcd5ce" />
+<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
+<img src="https://img.shields.io/badge/-Vue-fec5bb" />
+<img src="https://img.shields.io/badge/-HTML-fec89a" />
   <br />
 </div>
 
@@ -38,6 +38,7 @@
 - [not-ivy/melon](https://github.com/not-ivy/melon) A sweet link shortener. ★6
 - [not-ivy/not-ivy](https://github.com/not-ivy/not-ivy) no longer dynamically updated readme ★4
 - [Project-Sparrow/snowflake](https://github.com/Project-Sparrow/snowflake) ❄️ A simple, dependency-free snowflake generation library ★3
+- [not-ivy/aoc2022](https://github.com/not-ivy/aoc2022) when the ★0
 - [Project-Sparrow/.github](https://github.com/Project-Sparrow/.github) ⚙️ Github files that are used by sparrow ★0
 
 ## Archived Projects
@@ -52,20 +53,20 @@
 
 Most used languages:
 ```
-TypeScript          [###############################] 31%
-JavaScript          [##################             ] 18%
-Rust                [#######                        ] 7%
-Shell               [#######                        ] 7%
-Markdown            [#####                          ] 5%
-Go                  [###                            ] 3%
-HTML                [###                            ] 3%
-Kotlin              [#                              ] 1%
-Vue                 [#                              ] 1%
-Lua                 [#                              ] 1%
-C#                  [#                              ] 1%
-CSS                 [#                              ] 1%
-Python              [#                              ] 1%
-HCL                 [#                              ] 1%
+TypeScript          [################################] 32%
+JavaScript          [##################              ] 18%
+Rust                [#######                         ] 7%
+Shell               [#######                         ] 7%
+Markdown            [#####                           ] 5%
+Go                  [###                             ] 3%
+HTML                [###                             ] 3%
+Kotlin              [#                               ] 1%
+Vue                 [#                               ] 1%
+Lua                 [#                               ] 1%
+C#                  [#                               ] 1%
+CSS                 [#                               ] 1%
+Python              [#                               ] 1%
+HCL                 [#                               ] 1%
 ```
 
 ## Info
