@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Responsive is better than fast.</i></b>
+  <b><i>Half measures are as bad as nothing at all.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffb4ed?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23e9d3d0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffcee0?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffd3da?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23f4d3d5?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-Go-ffe5d9" />
-<img src="https://img.shields.io/badge/-Rust-fec5bb" />
-<img src="https://img.shields.io/badge/-JavaScript-fcd5ce" />
-<img src="https://img.shields.io/badge/-other-ffd7ba" />
-<img src="https://img.shields.io/badge/-Markdown-fae1dd" />
-<img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
-<img src="https://img.shields.io/badge/-Vue-e8e8e4" />
-<img src="https://img.shields.io/badge/-HTML-d8e2dc" />
+<img src="https://img.shields.io/badge/-TypeScript-f8edeb" />
+<img src="https://img.shields.io/badge/-Go-ece4db" />
+<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
+<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
+<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-Markdown-fcd5ce" />
+<img src="https://img.shields.io/badge/-Shell-fae1dd" />
+<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
+<img src="https://img.shields.io/badge/-Vue-d8e2dc" />
+<img src="https://img.shields.io/badge/-HTML-fec5bb" />
   <br />
 </div>
 
@@ -36,7 +36,6 @@
 ## Active Projects
 
 - [isotope-app/isotope-old](https://github.com/isotope-app/isotope-old) simple chat app using ipfs ★3
-- [not-ivy/not-ivy](https://github.com/not-ivy/not-ivy) no longer dynamically updated readme ★3
 - [not-ivy/dots](https://github.com/not-ivy/dots) (outdated) dots ★2
 - [isotope-app/deuterium](https://github.com/isotope-app/deuterium) protocol used by isotope ★0
 - [isotope-app/hydrogen](https://github.com/isotope-app/hydrogen) reference implementation of deuterium ★0
