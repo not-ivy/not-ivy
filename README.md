@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Favor focus over features.</i></b>
+  <b><i>Approachable is better than simple.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffbeef?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23e9d3d0?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23f69ee1?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffd3da?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffaaea?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-f8edeb" />
-<img src="https://img.shields.io/badge/-Go-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-ffe5d9" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-other-e8e8e4" />
-<img src="https://img.shields.io/badge/-Markdown-d8e2dc" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-Go-d8e2dc" />
+<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
+<img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
+<img src="https://img.shields.io/badge/-other-fcd5ce" />
+<img src="https://img.shields.io/badge/-Markdown-ffd7ba" />
 <img src="https://img.shields.io/badge/-Shell-fae1dd" />
-<img src="https://img.shields.io/badge/-Kotlin-fcd5ce" />
-<img src="https://img.shields.io/badge/-Vue-fec5bb" />
-<img src="https://img.shields.io/badge/-HTML-ece4db" />
+<img src="https://img.shields.io/badge/-Kotlin-fec89a" />
+<img src="https://img.shields.io/badge/-Vue-ffe5d9" />
+<img src="https://img.shields.io/badge/-HTML-f8edeb" />
   <br />
 </div>
 
@@ -39,7 +39,6 @@
 - [not-ivy/dots](https://github.com/not-ivy/dots) (outdated) dots ★2
 - [not-ivy/meowsys](https://github.com/not-ivy/meowsys) why ★1
 - [isotope-app/deuterium](https://github.com/isotope-app/deuterium) protocol used by isotope ★0
-- [isotope-app/hydrogen](https://github.com/isotope-app/hydrogen) reference implementation of deuterium ★0
 - [isotope-app/isotope](https://github.com/isotope-app/isotope) web client for hydrogen ★0
 - [isotope-app/tritium](https://github.com/isotope-app/tritium) ws based server for hydrogen ★0
 
