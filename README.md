@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Speak like a human.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffaaea?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f69ee1?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffc9e5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ec91d8?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23f69ee1?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffd3da?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ffd3da?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffc9e5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffaaea?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-d8e2dc" />
-<img src="https://img.shields.io/badge/-Go-fcd5ce" />
-<img src="https://img.shields.io/badge/-Rust-fec89a" />
-<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
-<img src="https://img.shields.io/badge/-other-fae1dd" />
-<img src="https://img.shields.io/badge/-Markdown-e8e8e4" />
+<img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
+<img src="https://img.shields.io/badge/-Go-fec89a" />
+<img src="https://img.shields.io/badge/-Rust-d8e2dc" />
+<img src="https://img.shields.io/badge/-JavaScript-fcd5ce" />
+<img src="https://img.shields.io/badge/-other-ffd7ba" />
+<img src="https://img.shields.io/badge/-Markdown-fec5bb" />
 <img src="https://img.shields.io/badge/-Shell-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
-<img src="https://img.shields.io/badge/-Vue-f8edeb" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
+<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
+<img src="https://img.shields.io/badge/-Vue-e8e8e4" />
+<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
   <br />
 </div>
 
@@ -52,20 +52,20 @@
 
 Most used languages:
 ```
-TypeScript          [##################################] 34%
-JavaScript          [################                  ] 16%
-Rust                [######                            ] 6%
-Markdown            [######                            ] 6%
-Shell               [######                            ] 6%
-HTML                [####                              ] 4%
-Go                  [###                               ] 3%
-Kotlin              [#                                 ] 1%
-Vue                 [#                                 ] 1%
-Lua                 [#                                 ] 1%
-C#                  [#                                 ] 1%
-CSS                 [#                                 ] 1%
-Python              [#                                 ] 1%
-HCL                 [#                                 ] 1%
+TypeScript          [#################################] 33%
+JavaScript          [################                 ] 16%
+Rust                [######                           ] 6%
+Markdown            [######                           ] 6%
+Shell               [######                           ] 6%
+HTML                [####                             ] 4%
+Go                  [###                              ] 3%
+CSS                 [###                              ] 3%
+Kotlin              [#                                ] 1%
+Vue                 [#                                ] 1%
+Lua                 [#                                ] 1%
+C#                  [#                                ] 1%
+Python              [#                                ] 1%
+HCL                 [#                                ] 1%
 ```
 
 ## Info
