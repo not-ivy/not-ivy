@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Anything added dilutes everything else.</i></b>
+  <b><i>Favor focus over features.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23ffcee0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffaaea?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f69ee1?logo=IntelliJIDEA&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffb4ed?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23f69ee1?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23f4d3d5?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23e9d3d0?logo=Linux&labelColor=4c566a" />
   <br />
 <img src="https://img.shields.io/badge/-TypeScript-fae1dd" />
 <img src="https://img.shields.io/badge/-Go-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-e8e8e4" />
-<img src="https://img.shields.io/badge/-JavaScript-fec89a" />
-<img src="https://img.shields.io/badge/-other-d8e2dc" />
-<img src="https://img.shields.io/badge/-Markdown-fcd5ce" />
-<img src="https://img.shields.io/badge/-Shell-f8edeb" />
-<img src="https://img.shields.io/badge/-Kotlin-ffe5d9" />
-<img src="https://img.shields.io/badge/-Vue-ece4db" />
-<img src="https://img.shields.io/badge/-HTML-fec5bb" />
+<img src="https://img.shields.io/badge/-Rust-fcd5ce" />
+<img src="https://img.shields.io/badge/-JavaScript-ffe5d9" />
+<img src="https://img.shields.io/badge/-other-ece4db" />
+<img src="https://img.shields.io/badge/-Markdown-d8e2dc" />
+<img src="https://img.shields.io/badge/-Shell-fec5bb" />
+<img src="https://img.shields.io/badge/-Kotlin-f8edeb" />
+<img src="https://img.shields.io/badge/-Vue-fec89a" />
+<img src="https://img.shields.io/badge/-HTML-e8e8e4" />
   <br />
 </div>
 
@@ -51,20 +51,20 @@
 
 Most used languages:
 ```
-TypeScript          [###################################] 35%
-JavaScript          [###############                    ] 15%
-Rust                [######                             ] 6%
-Markdown            [######                             ] 6%
-Shell               [######                             ] 6%
-HTML                [####                               ] 4%
-CSS                 [####                               ] 4%
-Go                  [###                                ] 3%
-Kotlin              [#                                  ] 1%
-Vue                 [#                                  ] 1%
-Lua                 [#                                  ] 1%
-C#                  [#                                  ] 1%
-Python              [#                                  ] 1%
-HCL                 [#                                  ] 1%
+TypeScript          [####################################] 36%
+JavaScript          [###############                     ] 15%
+Rust                [######                              ] 6%
+Markdown            [######                              ] 6%
+Shell               [######                              ] 6%
+HTML                [####                                ] 4%
+Go                  [###                                 ] 3%
+CSS                 [###                                 ] 3%
+Kotlin              [#                                   ] 1%
+Vue                 [#                                   ] 1%
+Lua                 [#                                   ] 1%
+C#                  [#                                   ] 1%
+Python              [#                                   ] 1%
+HCL                 [#                                   ] 1%
 ```
 
 ## Info
