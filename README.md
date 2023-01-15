@@ -1,27 +1,27 @@
 <!-- deno-fmt-ignore-file -->
 <h1 align="center">ivy</h1>
 <div align="center">
-  <b><i>Mind your words, they are important.</i></b>
+  <b><i>Avoid administrative distraction.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-CLion-%23ffbeef?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffaaea?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f4d3d5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23ffaaea?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-CLion-%23e9d3d0?logo=CLion&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23ffc9e5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23f69ee1?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffcee0?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23f69ee1?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
   <br />
-<img src="https://img.shields.io/badge/-TypeScript-e8e8e4" />
-<img src="https://img.shields.io/badge/-Go-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-f8edeb" />
+<img src="https://img.shields.io/badge/-TypeScript-ece4db" />
+<img src="https://img.shields.io/badge/-Go-e8e8e4" />
+<img src="https://img.shields.io/badge/-Rust-d8e2dc" />
 <img src="https://img.shields.io/badge/-JavaScript-fae1dd" />
-<img src="https://img.shields.io/badge/-other-fcd5ce" />
-<img src="https://img.shields.io/badge/-Markdown-fec5bb" />
-<img src="https://img.shields.io/badge/-Shell-ece4db" />
-<img src="https://img.shields.io/badge/-Kotlin-d8e2dc" />
-<img src="https://img.shields.io/badge/-Vue-fec89a" />
-<img src="https://img.shields.io/badge/-HTML-ffe5d9" />
+<img src="https://img.shields.io/badge/-other-fec5bb" />
+<img src="https://img.shields.io/badge/-Markdown-f8edeb" />
+<img src="https://img.shields.io/badge/-Shell-ffe5d9" />
+<img src="https://img.shields.io/badge/-Kotlin-ffd7ba" />
+<img src="https://img.shields.io/badge/-Vue-fcd5ce" />
+<img src="https://img.shields.io/badge/-HTML-fec89a" />
   <br />
 </div>
 
@@ -37,7 +37,6 @@
 
 - [not-ivy/melon](https://github.com/not-ivy/melon) A sweet link shortener. ★11
 - [not-ivy/not-ivy](https://github.com/not-ivy/not-ivy) no longer dynamically updated readme ★4
-- [not-ivy/meowsys](https://github.com/not-ivy/meowsys)   a thing for the screeps: world game ★2
 - [not-ivy/mp-discord](https://github.com/not-ivy/mp-discord) Discord rich presence for Monstercat Player ★0
 
 ## Archived Projects
