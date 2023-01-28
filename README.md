@@ -4,21 +4,21 @@
   <b><i>Favor focus over features.</i></b>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/-Vim-%23f4d3d5?logo=Vim&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Vim-%23e9d3d0?logo=Vim&labelColor=4c566a" />
   <img src="https://img.shields.io/badge/-CLion-%23ffcee0?logo=CLion&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23e9d3d0?logo=IntelliJIDEA&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffc9e5?logo=VisualStudioCode&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-IntellJ IDEA-%23f4d3d5?logo=IntelliJIDEA&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-%23ffbeef?logo=VisualStudioCode&labelColor=4c566a" />
   <br />
-  <img src="https://img.shields.io/badge/-macOS-%23ffbeef?logo=macOS&labelColor=4c566a" />
-  <img src="https://img.shields.io/badge/-Linux-%23ec91d8?logo=Linux&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-macOS-%23ffb4ed?logo=macOS&labelColor=4c566a" />
+  <img src="https://img.shields.io/badge/-Linux-%23ffd3da?logo=Linux&labelColor=4c566a" />
   <br />
 <img src="https://img.shields.io/badge/-TypeScript-ece4db" />
-<img src="https://img.shields.io/badge/-Go-ffd7ba" />
-<img src="https://img.shields.io/badge/-Rust-fae1dd" />
+<img src="https://img.shields.io/badge/-Go-e8e8e4" />
+<img src="https://img.shields.io/badge/-Rust-fec89a" />
 <img src="https://img.shields.io/badge/-JavaScript-fec5bb" />
-<img src="https://img.shields.io/badge/-other-e8e8e4" />
+<img src="https://img.shields.io/badge/-other-fae1dd" />
 <img src="https://img.shields.io/badge/-Markdown-f8edeb" />
-<img src="https://img.shields.io/badge/-Shell-fec89a" />
+<img src="https://img.shields.io/badge/-Shell-ffd7ba" />
 <img src="https://img.shields.io/badge/-Kotlin-ffe5d9" />
 <img src="https://img.shields.io/badge/-Vue-d8e2dc" />
 <img src="https://img.shields.io/badge/-HTML-fcd5ce" />
