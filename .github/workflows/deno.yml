@@ -11,21 +11,8 @@ jobs:
       - name: Setup repo
         uses: actions/checkout@v2
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-
-      - name: Verify formatting
-        run: deno fmt --check
-
-      - name: Run linter
-        run: deno lint
-        
-      - name: Update README
-        run: |
-           export TOKEN="${{ secrets.TOKEN }}"
-           deno run --allow-env --allow-net --allow-read --allow-write update/generate.ts
+      - name: Abandon Deno
+        run: echo "no"
       
       - name: Commit and push changes
         continue-on-error: true
